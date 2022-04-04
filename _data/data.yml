@@ -1,43 +1,42 @@
-name: John Doe
+name: Gabriel Amorim
 support_dark_mode: true
-fork: true
+fork: false
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
-  gitlab: 
+  email: gabriel._amorim@hotmail.com
+  github: RecNove
+  linkedin: gabrielamorim0
+  phone: (31)98987-7783
+  gitlab: RecNove
   twitter: 
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Portuguese
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: Computer Engineering
+    time: 2020-2025
+    university: Pontifícia Universidade Católica de Minas Gerais
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Formação Técnica T.I
+    time: 2018-2019
+    university: Colégio Cotemig
 
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
+      - C#
+      - C
   - category: Frontend
     skill:
       - React
       - Typescript
   - category: DevOps
     skill:
-      - Docker
-      - Kubernetes 
+      - Google Cloud
+      - Amazon Web Services 
 
 # Profile
 profile: |
@@ -85,11 +84,11 @@ publications:
     conference: Some conference again, 2018
 
 projects:
-  - title: Cool Project 
+  - title: GM3 
     link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Realizei um projeto de gestão da empresa envolvendo sistemas de apontamento, férias, envio de contra-cheque, contratação, 
+      relatórios, Certificados e Controle de ativos.
 
   - title: Cool Project 
     link: #
@@ -99,9 +98,9 @@ projects:
 
 # Volunteering
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
+  - time: 2019
+    role: Teacher
+    company: Code Club Cotemig
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
