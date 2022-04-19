@@ -64,17 +64,6 @@ experience:
     technologies_used: | 
       CSS, HTML, PHP
 
-publications:
-  - title: Javascript Game Developer.
-    link: "https://www.dio.me/certificate/FBB6403F/"
-    authors: DIO
-    conference: 07/06/2021
-
-  - title: MLOps Fundamentals.
-    link: "https://www.coursera.org/account/accomplishments/verify/NR8S963QFLE6"
-    authors: Google
-    conference: 08/02/2021
-
 projects:
   - title: GM3 
     link: #
@@ -94,3 +83,14 @@ volunteering:
     company: Code Club Cotemig
     details: |
       Atuei como professor de programação ao ensinar lógica de programação básica a crianças no treinamento do Code Club. 
+      
+publications:
+  - title: Javascript Game Developer.
+    link: "https://www.dio.me/certificate/FBB6403F/"
+    authors: DIO
+    conference: 07/06/2021
+
+  - title: MLOps Fundamentals.
+    link: "https://www.coursera.org/account/accomplishments/verify/NR8S963QFLE6"
+    authors: Google
+    conference: 08/02/2021
