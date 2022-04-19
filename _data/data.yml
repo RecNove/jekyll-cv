@@ -50,11 +50,8 @@ experience:
     time: 2020-Atual
     company: Meta3 Services & Technologies
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Estágiario na Meta3 Services & Technologies realizei um treinamento de 6 meses e atuei como
+      desenvolvedor Fullstack ao aprender técnologias de C#, Javascript, Typescript e React.
     technologies_used: | 
       C#, Javascript, Typescript, React, SQL Server
   
@@ -62,24 +59,21 @@ experience:
     time: 2019-2019
     company: Contabilidade Amorim
     details: |
-      Realizei o planejamento e desenvolvimento do site da contabilidade, 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Realizei o planejamento e desenvolvimento do site da contabilidade, utilizando
+      PHP como backend e HTML e CSS como front-end.
     technologies_used: | 
       CSS, HTML, PHP
 
 publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+  - title: Javascript Game Developer.
+    link: "https://www.dio.me/certificate/FBB6403F/"
+    authors: DIO
+    conference: 07/06/2021
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: MLOps Fundamentals.
+    link: "https://www.coursera.org/account/accomplishments/verify/NR8S963QFLE6"
+    authors: Google
+    conference: 08/02/2021
 
 projects:
   - title: GM3 
