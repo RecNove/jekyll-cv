@@ -40,7 +40,7 @@ skills:
 
 # Profile
 profile: |
-  Programador Full Stack com conhecimentos em Javascript,Typescript, React e C#, formado em T.I pelo 
+  Programador Full Stack com conhecimentos em Javascript, Typescript, React e C#, formado em T.I pelo 
   técnico no Cotemig e atualmente cursando Bacharelado em Engenharia da Computação. amante de 
   frontend busco combinar o que aprendi na indústria e me desenvolver como desenvolvedor.
 
@@ -51,9 +51,9 @@ experience:
     company: Meta3 Services & Technologies
     details: |
       Estágiario na Meta3 Services & Technologies realizei um treinamento de 6 meses e atuei como
-      desenvolvedor Fullstack ao aprender técnologias de C#, Javascript, Typescript e React.
+      desenvolvedor Fullstack ao aprender e utilizar as seguintes linguagens de Programação: C#, Javascript, Typescript e React.
     technologies_used: | 
-      C#, Javascript, Typescript, React, SQL Server
+      C, C#, Javascript, Typescript, React, SQL Server
   
   - role: Desenvolvedor Web PHP
     time: 2019-2019
@@ -68,13 +68,17 @@ projects:
   - title: GM3 
     link: #
     details: |
-      Projeto realizado em C#, Typescript, React e SQL Server de gestão de dados da empresa envolvendo sistemas de apontamento,
-      férias, envio e recebimento de contra-cheque, relatórios, certificações e contratação de pessoas.
+      Projeto de gestão de colaboradores da empresa envolvendo sistemas de armazenamento de usuarios,
+      apontamento, férias, envio e recebimento de contra-cheque, relatórios, certificações e contratação de pessoas.
+    technologies_used: | 
+      C#, Typescript, React, SQL Server
 
   - title: Controle de Ativos 
     link: #
     details: |
-      Sistema desenvolvido em C#, ASP.NET, MVC e Entity Framework, utilizado para gestão de todos os Ativos da empresa.
+      Sistema desenvolvido para gestão de todos os Ativos da empresa.
+    technologies_used: | 
+      C#, ASP.NET, MVC e Entity Framework
 
 # Volunteering
 volunteering:
