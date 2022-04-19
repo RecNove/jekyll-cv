@@ -7,16 +7,16 @@ contact:
   email: gabriel._amorim@hotmail.com
   github: RecNove
   linkedin: gabrielamorim0
-  phone: (31)98987-7783
+  phone: (31) 98987-7783
   gitlab: RecNove
   twitter: 
 
 languages:
-  - idiom: English
-  - idiom: Portuguese
+  - idiom: Inglês
+  - idiom: Português
 
 education:
-  - degree: Computer Engineering
+  - degree: Engenharia da Computação
     time: 2020-2025
     university: PUC MINAS
 
@@ -40,17 +40,15 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Programador Full Stack com conhecimentos em Javascript,Typescript, React e C#, formado em T.I pelo 
+  técnico no Cotemig e atualmente cursando Bacharelado em Engenharia da Computação. amante de 
+  frontend busco combinar o que aprendi na indústria e me desenvolver como desenvolvedor.
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Desenvolvedor Fullstack 
+    time: 2020-Atual
+    company: Meta3 Services & Technologies
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
@@ -58,19 +56,19 @@ experience:
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      C#, Javascript, Typescript, React, SQL Server
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Desenvolvedor Web PHP
+    time: 2019-2019
+    company: Contabilidade Amorim
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      Realizei o planejamento e desenvolvimento do site da contabilidade, 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      CSS, HTML, PHP
 
 publications:
   - title: Random title of paper. An interesting one.
@@ -87,14 +85,13 @@ projects:
   - title: GM3 
     link: #
     details: |
-      Realizei um projeto de gestão da empresa envolvendo sistemas de apontamento, férias, envio de contra-cheque, contratação, 
-      relatórios, Certificados e Controle de ativos.
+      Projeto realizado em C#, Typescript, React e SQL Server de gestão de dados da empresa envolvendo sistemas de apontamento,
+      férias, envio e recebimento de contra-cheque, relatórios, certificações e contratação de pessoas.
 
-  - title: Cool Project 
+  - title: Controle de Ativos 
     link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Sistema desenvolvido em C#, ASP.NET, MVC e Entity Framework, utilizado para gestão de todos os Ativos da empresa.
 
 # Volunteering
 volunteering:
