@@ -5,10 +5,10 @@ fork: false
 # Sidebar
 contact:
   email: gabriel._amorim@hotmail.com
-  github: RecNove
+  github: AmorimMG
   linkedin: gabrielamorim0
   phone: (31) 98987-7783
-  gitlab: RecNove
+  gitlab: AmorimMG
   twitter: 
 
 languages:
@@ -83,7 +83,7 @@ projects:
 # Volunteering
 volunteering:
   - time: 2019
-    role: Teacher
+    role: Professor
     company: Code Club Cotemig
     details: |
       Atuei como professor de programação ao ensinar lógica de programação básica a crianças no treinamento do Code Club. 
