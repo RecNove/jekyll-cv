@@ -33,10 +33,12 @@ skills:
     skill:
       - React
       - Typescript
-  - category: DevOps
+  - category: Complementarias
     skill:
-      - Google Cloud
-      - Amazon Web Services 
+      - Versionamento
+      - Pair Programming
+      - Métodologias Agéis
+      - Kanban e Azure Boards 
 
 # Profile
 profile: |
