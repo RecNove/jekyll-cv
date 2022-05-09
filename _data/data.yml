@@ -29,27 +29,32 @@ skills:
     skill: 
       - C#
       - C
+      - PHP
   - category: Frontend
     skill:
+      - HTML
+      - CSS
+      - Javascript
       - React
       - Typescript
-  - category: Complementarias
+  - category: Adicionais
     skill:
       - Versionamento
       - Pair Programming
       - Métodologias Agéis
-      - Kanban e Azure Boards 
+      - Kanban e Azure Boards
+      - Banco de Dados 
 
 # Profile
 profile: |
   Programador Full Stack com conhecimentos em Javascript, Typescript, React e C#, formado em T.I pelo 
   técnico no Cotemig e atualmente cursando Bacharelado em Engenharia da Computação. amante de 
-  frontend busco combinar o que aprendi na indústria e me desenvolver como desenvolvedor.
+  frontend busco combinar o que aprendi na indústria e me aprimorar como desenvolvedor.
 
 # Experience
 experience:
   - role: Desenvolvedor Fullstack 
-    time: 2020-Atual
+    time: 2021-Atual
     company: Meta3 Services & Technologies
     details: |
       Estágiario na Meta3 Services & Technologies realizei um treinamento de 6 meses e atuei como
@@ -62,7 +67,7 @@ experience:
     company: Contabilidade Amorim
     details: |
       Realizei o planejamento e desenvolvimento do site da contabilidade, utilizando
-      PHP como backend e HTML e CSS como front-end.
+      PHP como backend e HTML e CSS como frontend.
     technologies_used: | 
       CSS, HTML, PHP
 
