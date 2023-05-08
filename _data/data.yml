@@ -90,7 +90,7 @@ projects:
     details: |
       Conversão de um projeto feito em VB6 para Angular e Java do Banco Votorantim (Banco BV), 
       O sistema Comissão Loja é responsável por centralizar os pagamentos de comissões, também conhecido como retorno do lojista. 
-      Ele recebe valores através de procedimentos de Acordos comerciais de consignado e veículos e do retorno do lojista.
+      Ele recebe valores através de procedimentos de Acordos comerciais de consignado.
     technologies_used: | 
       Angular, Typescript, JavaScript, SCSS
 
