@@ -103,10 +103,10 @@ projects:
     technologies_used: | 
       C#, Typescript, React, SQL Server
 
-  - title: Configuração de Servidor 
+  - title: Servidor
     link: #
     details: |
-      Desenvolvi todo o sistema de configuração e publicação de projetos da empresa.
+      configurei todo o sistema do servidor da empresa em Linux e criei um sistema de publicação para todos os projetos, backup diário de todos os bancos e gerenciamento de acesso remoto para a equipe. Foi um trabalho desafiador, mas estou feliz em dizer que tudo foi feito com sucesso, aumentando a eficiência da empresa e protegendo nossos dados.
     technologies_used: | 
       Linux, Docker, Nginx, CronJobs, CockPit, IIS, Virtualbox
 
