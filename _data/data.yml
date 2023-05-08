@@ -64,7 +64,7 @@ profile: |
   Olá, sou Gabriel Amorim, um profissional com vasta experiência em desenvolvimento de software e tecnologia da informação. 
   Tenho habilidades em diversas linguagens de programação e frameworks. 
   Além disso, sou apaixonado por aprender novas tecnologias e aplicá-las para resolver problemas complexos. 
-  Com uma abordagem ágil e colaborativa, sou capaz de trabalhar em equipe e liderar projetos de forma eficiente. 
+  Com uma abordagem ágil e colaborativa, sou capaz de trabalhar em equipe de forma eficiente. 
   Se você está procurando um desenvolvedor com habilidades técnicas e uma mentalidade inovadora, estou à disposição para discutir oportunidades de colaboração.
 
 # Experience
@@ -73,9 +73,9 @@ experience:
     time: 2021-Atual
     company: Meta3 Services & Technologies
     details: |
-      Desenvolvedor Fullstack com foco em Front-End, Faço parte de projetos internos e externos e atuo no desenvolvimento em todas as aréas conforme sejam necessarias (DevOps, Back-End e Front-end).
+      Faço parte de projetos internos e externos e atuo no desenvolvimento em todas as aréas conforme sejam necessarias (DevOps, Back-End e Front-end).
     technologies_used: | 
-      C#, Javascript, Typescript, Angular, React, SQL Server, Figma, Linux, Docker
+      C#, Javascript, Typescript, Angular, React, SQL Server, Figma
   
   - role: Desenvolvedor Web PHP
     time: 2019-2019
