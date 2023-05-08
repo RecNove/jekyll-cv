@@ -106,7 +106,7 @@ projects:
   - title: Servidor
     link: #
     details: |
-      configurei todo o sistema do servidor da empresa em Linux e criei um sistema de publicação para todos os projetos, backup diário de todos os bancos e gerenciamento de acesso remoto para a equipe. Foi um trabalho desafiador, mas estou feliz em dizer que tudo foi feito com sucesso, aumentando a eficiência da empresa e protegendo nossos dados.
+      Configurei todo o sistema do servidor da empresa em Linux e criei um sistema de publicação para todos os projetos, backup diário de todos os bancos e gerenciamento de acesso remoto para a equipe. Foi um trabalho desafiador, mas estou feliz em dizer que tudo foi feito com sucesso, aumentando a eficiência da empresa e protegendo nossos dados.
     technologies_used: | 
       Linux, Docker, Nginx, CronJobs, CockPit, IIS, Virtualbox
 
