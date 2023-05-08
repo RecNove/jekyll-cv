@@ -11,43 +11,53 @@ contact:
   gitlab: AmorimMG
   twitter: 
 
-languages:
-  - idiom: Inglês
-  - idiom: Português
-
 education:
+  - degree: Engenharia de Software
+    time: 2023-2026
+    university: FIAP
+
   - degree: Engenharia da Computação
-    time: 2020-2025
+    time: 2020-2022
     university: PUC MINAS
 
   - degree: Formação Técnica T.I
     time: 2018-2019
     university: Colégio Cotemig
 
+languages:
+  - idiom: Inglês - C2 Proeficient
+  - idiom: Português - FLuente
+
 skills:
-  - category: Backend
+  - category: Back-end
     skill: 
-      - C#
-      - C
-      - PHP
-  - category: Frontend
+      - C# - Básico
+      - C - Básico
+      - PHP - Básico
+      - Python - Básico
+  - category: Front-end
     skill:
-      - HTML
-      - CSS
-      - Javascript
-      - React
-      - Typescript
-  - category: Adicionais
+      - HTML - Avançado
+      - CSS - Intermédiario
+      - Javascript - Intermédiario
+      - Typescript - Intermédiario
+      - React - Intermédiario
+      - Angular - Intermédiario
+  - category: DevOps
+    skill: 
+      - Git
+      - Docker
+      - Virtual Machines
+  - category: Soft Skills
     skill:
       - Versionamento
       - Pair Programming
       - Métodologias Agéis
-      - Kanban e Azure Boards
-      - Banco de Dados 
+      - Azure Boards (Kanban)
 
 # Profile
 profile: |
-  Programador Full Stack com conhecimentos em Javascript, Typescript, React e C#, formado em T.I pelo 
+  Programador Full Stack mas com foco em Front-end, formado em T.I pelo 
   técnico no Cotemig e atualmente cursando Bacharelado em Engenharia da Computação. amante de 
   frontend busco combinar o que aprendi na indústria e me aprimorar como desenvolvedor.
 
@@ -72,6 +82,22 @@ experience:
       CSS, HTML, PHP
 
 projects:
+  - title: BV Comissões
+    link: #
+    details: |
+      Conversão de um projeto feito em VB6 para Angular e Java do Banco Votorantim (Banco BV), 
+      O sistema Comissão Loja é responsável por centralizar os pagamentos de comissões, também conhecido como retorno do lojista. 
+      Ele recebe valores através de procedimentos de Acordos comerciais de consignado e veículos e do retorno do lojista.
+    technologies_used: | 
+      Angular, Typescript, JavaScript, SCSS
+
+  - title: Meta3TD
+    link: #
+    details: |
+      Meta3TD é um sistema que utiliza dos dados recebidos do META3AI (Sistema que lê e analiza códigos), para produzir CRUD's de forma automatica no front-end de um sistema.
+    technologies_used: | 
+      C#, Typescript, React, SQL Server
+
   - title: GM3
     link: #
     details: |
@@ -87,14 +113,6 @@ projects:
     technologies_used: | 
       C#, ASP.NET, MVC e Entity Framework
 
-# Volunteering
-volunteering:
-  - time: 2019
-    role: Professor
-    company: Code Club Cotemig
-    details: |
-      Atuei como professor de programação ao ensinar lógica de programação básica a crianças no treinamento do Code Club. 
-      
 publications:
   - title: Javascript Game Developer.
     link: "https://www.dio.me/certificate/FBB6403F/"
