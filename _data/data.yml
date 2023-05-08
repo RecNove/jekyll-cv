@@ -51,11 +51,13 @@ skills:
       - Métodologias Agéis
       - Azure Boards (Kanban)
   - category: Habilidades Extras
-    skill: 
+    skill:
+      - Figma
       - Git
       - Docker
       - Virtual Machines
       - SQL
+      - Linux
       - MongoDB
 # Profile
 profile: |
@@ -73,7 +75,7 @@ experience:
     details: |
       Desenvolvedor Fullstack com foco em Front-End, Faço parte de projetos internos e externos e atuo no desenvolvimento em todas as aréas conforme sejam necessarias (DevOps, Back-End e Front-end).
     technologies_used: | 
-      C, C#, Javascript, Typescript, React, SQL Server
+      C#, Javascript, Typescript, Angular, React, SQL Server, Figma, Linux, Docker
   
   - role: Desenvolvedor Web PHP
     time: 2019-2019
@@ -92,7 +94,7 @@ projects:
       O sistema Comissão Loja é responsável por centralizar os pagamentos de comissões, também conhecido como retorno do lojista. 
       Ele recebe valores através de procedimentos de Acordos comerciais de consignado.
     technologies_used: | 
-      Angular, Typescript, JavaScript, SCSS
+      Angular, Typescript, JavaScript, SCSS, Figma
 
   - title: Meta3TD
     link: #
@@ -100,6 +102,13 @@ projects:
       Meta3TD é um sistema de conversão de código que lê e analiza códigos, para produzir CRUD's de forma automatica no front-end de um sistema.
     technologies_used: | 
       C#, Typescript, React, SQL Server
+
+  - title: Configuração de Servidor 
+    link: #
+    details: |
+      Desenvolvi todo o sistema de configuração e publicação de projetos da empresa.
+    technologies_used: | 
+      Linux, Docker, Nginx, CronJobs, CockPit, IIS, Virtualbox
 
   - title: GM3
     link: #
