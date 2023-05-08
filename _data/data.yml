@@ -29,36 +29,38 @@ education:
     university: Colégio Cotemig
 
 skills:
-  - category: Back-end
+  - category: Habilidades Back-end
     skill: 
       - C# - Básico
       - C - Básico
       - PHP - Básico
       - Python - Básico
-  - category: Front-end
+  - category: Habilidades Front-end
     skill:
-      - HTML - Avançado
+      - Vue - Básico
       - CSS - Intermédiario
       - Javascript - Intermédiario
       - Typescript - Intermédiario
       - React - Intermédiario
       - Angular - Intermédiario
-  - category: DevOps
-    skill: 
-      - Git
-      - Docker
-      - Virtual Machines
+      - HTML - Avançado
   - category: Soft Skills
     skill:
       - Versionamento
       - Pair Programming
       - Métodologias Agéis
       - Azure Boards (Kanban)
-
+  - category: Habilidades Extras
+    skill: 
+      - Git
+      - Docker
+      - Virtual Machines
+      - SQL
+      - MongoDB
 # Profile
 profile: |
   Olá, sou Gabriel Amorim, um profissional com vasta experiência em desenvolvimento de software e tecnologia da informação. 
-  Tenho habilidades em diversas linguagens de programação e frameworks, incluindo Python, JavaScript, React e Angular. 
+  Tenho habilidades em diversas linguagens de programação e frameworks. 
   Além disso, sou apaixonado por aprender novas tecnologias e aplicá-las para resolver problemas complexos. 
   Com uma abordagem ágil e colaborativa, sou capaz de trabalhar em equipe e liderar projetos de forma eficiente. 
   Se você está procurando um desenvolvedor com habilidades técnicas e uma mentalidade inovadora, estou à disposição para discutir oportunidades de colaboração.
@@ -69,8 +71,7 @@ experience:
     time: 2021-Atual
     company: Meta3 Services & Technologies
     details: |
-      Estágiario na Meta3 Services & Technologies realizei um treinamento de 6 meses e atuei como
-      desenvolvedor Fullstack ao aprender e utilizar as seguintes linguagens de Programação: C#, Javascript, Typescript e React.
+      Desenvolvedor Fullstack com foco em Front-End, Faço parte de projetos internos e externos e atuo no desenvolvimento em todas as aréas conforme sejam necessarias (DevOps, Back-End e Front-end).
     technologies_used: | 
       C, C#, Javascript, Typescript, React, SQL Server
   
@@ -96,7 +97,7 @@ projects:
   - title: Meta3TD
     link: #
     details: |
-      Meta3TD é um sistema que utiliza dos dados recebidos do META3AI (Sistema que lê e analiza códigos), para produzir CRUD's de forma automatica no front-end de um sistema.
+      Meta3TD é um sistema de conversão de código que lê e analiza códigos, para produzir CRUD's de forma automatica no front-end de um sistema.
     technologies_used: | 
       C#, Typescript, React, SQL Server
 
