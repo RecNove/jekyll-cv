@@ -11,6 +11,10 @@ contact:
   gitlab: AmorimMG
   twitter: 
 
+languages:
+  - idiom: Inglês - C2 Proeficient
+  - idiom: Português - Fluente
+
 education:
   - degree: Engenharia de Software
     time: 2023-2026
@@ -23,10 +27,6 @@ education:
   - degree: Formação Técnica T.I
     time: 2018-2019
     university: Colégio Cotemig
-
-languages:
-  - idiom: Inglês - C2 Proeficient
-  - idiom: Português - FLuente
 
 skills:
   - category: Back-end
@@ -57,9 +57,11 @@ skills:
 
 # Profile
 profile: |
-  Programador Full Stack mas com foco em Front-end, formado em T.I pelo 
-  técnico no Cotemig e atualmente cursando Bacharelado em Engenharia da Computação. amante de 
-  frontend busco combinar o que aprendi na indústria e me aprimorar como desenvolvedor.
+  Olá, sou Gabriel Amorim, um profissional com vasta experiência em desenvolvimento de software e tecnologia da informação. 
+  Tenho habilidades em diversas linguagens de programação e frameworks, incluindo Python, JavaScript, React e Angular. 
+  Além disso, sou apaixonado por aprender novas tecnologias e aplicá-las para resolver problemas complexos. 
+  Com uma abordagem ágil e colaborativa, sou capaz de trabalhar em equipe e liderar projetos de forma eficiente. 
+  Se você está procurando um desenvolvedor com habilidades técnicas e uma mentalidade inovadora, estou à disposição para discutir oportunidades de colaboração.
 
 # Experience
 experience:
