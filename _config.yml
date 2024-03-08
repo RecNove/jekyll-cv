@@ -1,7 +1,7 @@
 title: CV | Currículo
 description:  Meu currículo.
 url: https://jekyll-cv.stavrospanakakis.com
-baseurl: ''
+baseurl: 'jekyll-cv'
 theme_skin: blue
 
 sass:
