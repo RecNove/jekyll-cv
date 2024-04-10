@@ -1,4 +1,5 @@
-var iframe = document.getElementsByClassName('container')[0];
+function downloadPDF(){
+    var iframe = document.getElementsByClassName('container')[0];
 
 if (!iframe) {
     console.error('Iframe not found');
@@ -25,3 +26,4 @@ a.click();
 
 document.body.removeChild(a);
 window.URL.revokeObjectURL(url);
+}
