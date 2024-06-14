@@ -121,14 +121,14 @@ projects:
   - title: Sistema de Gestão de Colaboradores
     link: #
     details: |
-      Colaborei no desenvolvimento de um projeto de gestão de colaboradores, incluindo armazenamento de usuários, apontamento, férias, envio e recebimento de contracheques, relatórios, certificações e contratação de pessoas.
+      Desenvolvi um projeto de gestão de colaboradores, incluindo armazenamento de usuários, apontamento, férias, envio e recebimento de contracheques, relatórios, certificações e contratação de pessoas.
     technologies_used: | 
       Typescript, React, C#, SQL Server
 
   - title: Sistema de Controle de Ativos  
     link: #
     details: |
-      Colaborei no desenvolvimento de um sistema de gestão de todos os ativos da empresa.
+      Desenvolvi um sistema de gestão de todos os ativos da empresa.
     technologies_used: | 
       C#, ASP.NET, MVC e Entity Framework
 
