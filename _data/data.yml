@@ -64,8 +64,8 @@ skills:
 
   - category: Habilidades Extras
     skill:
-      - Pacote Office: Excel, Word, Powerpoint
-      - Pacote Adobe: Psd, Ai, Xd, Ae
+      - Pacote Office Excel, Word, Powerpoint
+      - Pacote Adobe Psd, Ai, Xd, Ae
       - Banco de Dados Relacionais
       - Banco de Dados Não Relacionais
       - Controle de Versionamento
@@ -105,24 +105,17 @@ projects:
     technologies_used: | 
       Vue, Nuxt, Typescript, JavaScript, Sass, Figma, Jenkins, Docker, IA, DevOps, Azure
 
-  - title: Conversão de Projeto VB6
+  - title: Conversão de Projetos em VB6
     link: #
     details: |
-      Converti um projeto de VB6 para Angular e Java para um banco. O sistema centraliza os pagamentos de comissões, também conhecido como retorno do lojista. Recebe valores através de procedimentos de acordos comerciais de consignado.
-    technologies_used: | 
-      Angular, Typescript, JavaScript, Sass, Figma, Jenkins, SonarLint, Bitbucket, Jira
-
-  - title: Conversão de Projeto VB6
-    link: #
-    details: |
-      Converti um projeto de VB6 para Angular e Java para um banco. O sistema centraliza os pagamentos de comissões, também conhecido como retorno do lojista. Recebe valores através de procedimentos de acordos comerciais de consignado.
+      Converti projetos em VB6 de um certo banco para Angular e Java. Os sistemas centralizam pagamentos, também conhecidos como retornos do lojista. Recebe valores através de procedimentos de acordos comerciais de consignado.
     technologies_used: | 
       Angular, Typescript, JavaScript, Sass, Figma, Jenkins, SonarLint, Bitbucket, Jira
 
   - title: Sistema de Conversão de Código
     link: #
     details: |
-      Desenvolvi um sistema que converte códigos lidos e analisados para produzir CRUDs e Swagger automaticamente em Angular, Vue e React.
+      Desenvolvi um sistema que converte códigos lidos e analisados para produzir CRUDs automaticamente em Angular, Vue e React.
     technologies_used: | 
       React, Angular, Vue, C#, Typescript, SQL Server
 
