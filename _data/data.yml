@@ -93,44 +93,44 @@ projects:
   - title: Sistema de Análise de Código
     link: #
     details: |
-      Desenvolvi um sistema que lê e analisa códigos, gerando dados baseados no código. Minha principal responsabilidade foi o frontend, mas também configurei o servidor do zero, implementei Jenkins e automatizei o deploy com Docker.
+      Desenvolvi um sistema para leitura e análise de códigos, focado principalmente no frontend, com configuração de servidor, Jenkins e deploy automatizado com Docker.
     technologies_used: | 
       Vue, Nuxt, Typescript, JavaScript, Sass, Figma, Jenkins, Docker, IA, DevOps, Azure
 
   - title: Conversão de Projetos em VB6
     link: #
     details: |
-      Converti projetos em VB6 de um certo banco para Angular e Java. Os sistemas centralizam pagamentos, também conhecidos como retornos do lojista. Recebe valores através de procedimentos de acordos comerciais de consignado.
+      Converti projetos VB6 para Angular e Java, centralizando pagamentos e procedimentos comerciais.
     technologies_used: | 
       Angular, Typescript, JavaScript, Sass, Figma, Jenkins, SonarLint, Bitbucket, Jira
 
   - title: Sistema de Conversão de Código
     link: #
     details: |
-      Desenvolvi um sistema que converte códigos lidos e analisados para produzir CRUDs automaticamente em Angular, Vue e React.
+      Desenvolvi um sistema que converte códigos em CRUDs automáticos para Angular, Vue e React.
     technologies_used: | 
       React, Angular, Vue, C#, Typescript, SQL Server
 
   - title: Configuração de Servidor
     link: #
     details: |
-      Configurei todo o sistema de servidor da empresa do zero em Linux e criei um sistema de publicação para todos os projetos, backup diário de todos os bancos e gerenciamento de acesso remoto para a equipe. O trabalho aumentou a eficiência da empresa e protegeu nossos dados.
+      Configurei o sistema de servidor da empresa, incluindo publicação de projetos, backups diários e gerenciamento de acesso remoto.
     technologies_used: | 
       Linux, Docker, Nginx, CronJobs, DevOps, IIS, Virtual Machines
 
   - title: Sistema de Gestão de Colaboradores
     link: #
     details: |
-      Desenvolvi um projeto de gestão de colaboradores, incluindo armazenamento de usuários, apontamento, férias, envio e recebimento de contracheques, relatórios, certificações e contratação de pessoas.
+      Desenvolvi um sistema para gestão de colaboradores, incluindo armazenamento de dados, relatórios e gerenciamento de contracheques.
     technologies_used: | 
       Typescript, React, C#, SQL Server
 
   - title: Sistema de Controle de Ativos  
     link: #
     details: |
-      Desenvolvi um sistema de gestão de todos os ativos da empresa.
+      Desenvolvi um sistema para gestão de ativos da empresa.
     technologies_used: | 
-      C#, ASP.NET, MVC e Entity Framework
+      C#, ASP.NET, MVC, Entity Framework
 
 publications:
   - title: Javascript Game Developer
