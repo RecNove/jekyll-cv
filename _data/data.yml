@@ -4,7 +4,7 @@ fork: false
 
 # Sidebar
 contact:
-  email: gabriel._amorim@hotmail.com
+  email: gabriel@amorim.pro
   github: AmorimMG
   linkedin: gabrielamorim0
   phone: (31) 98987-7783
@@ -12,8 +12,8 @@ contact:
   twitter: 
 
 languages:
-  - idiom: Inglês - C2 Proeficient
-  - idiom: Português - Fluente
+  - idiom: Inglês - C2 Proficient
+  - idiom: Português - Nativo
 
 education:
   - degree: Engenharia de Software
@@ -22,50 +22,41 @@ education:
 
   - degree: Engenharia da Computação
     time: 2020-2022
-    university: PUC MINAS
+    university: PUC Minas
 
   - degree: Formação Técnica T.I
     time: 2018-2019
     university: Colégio Cotemig
 
 skills:
-  - category: Habilidades Back-end
+  - category: Habilidades Backend
     skill: 
       - C# - Básico
       - C - Básico
       - PHP - Básico
       - Python - Básico
-  - category: Habilidades Front-end
+      - Java - Básico
+      - NestJS - Básico
+  - category: Habilidades Frontend
     skill:
-      - Vue - Básico
-      - CSS - Intermédiario
-      - Javascript - Intermédiario
-      - Typescript - Intermédiario
-      - React - Intermédiario
-      - Angular - Intermédiario
-      - HTML - Avançado
-  - category: Soft Skills
-    skill:
-      - Versionamento
-      - Pair Programming
-      - Métodologias Agéis
-      - Azure Boards (Kanban)
+      - Javascript - Intermediário
+      - Typescript - Intermediário
+      - React - Intermediário
+      - Angular - Intermediário
+      - Vue - Intermediário
+      - Jest (Teste Unitário) - Básico
   - category: Habilidades Extras
     skill:
-      - Figma
-      - Git
-      - Docker
-      - Virtual Machines
-      - SQL
-      - Linux
-      - MongoDB
+      - Figma - Intermediário
+      - Docker - Intermediário
+      - Linux - Intermediário
+      - Jenkins - Intermediário
+      - SQL - Intermediário
 # Profile
 profile: |
-  Olá, sou Gabriel Amorim, um profissional com vasta experiência em desenvolvimento de software e tecnologia da informação. 
-  Tenho habilidades em diversas linguagens de programação e frameworks. 
-  Além disso, sou apaixonado por aprender novas tecnologias e aplicá-las para resolver problemas complexos. 
-  Com uma abordagem ágil e colaborativa, sou capaz de trabalhar em equipe de forma eficiente. 
-  Se você está procurando um desenvolvedor com habilidades técnicas e uma mentalidade inovadora, estou à disposição para discutir oportunidades de colaboração.
+  Sou um desenvolvedor de software com ampla experiência em várias linguagens de programação e frameworks. 
+  Adoto uma abordagem ágil e colaborativa, sempre buscando aprender novas tecnologias para resolver problemas complexos. 
+  Estou disponível para discutir oportunidades onde eu possa aplicar minhas habilidades técnicas e mentalidade inovadora.
 
 # Experience
 experience:
@@ -73,65 +64,80 @@ experience:
     time: 2021-Atual
     company: Meta3 Services & Technologies
     details: |
-      Faço parte de projetos internos e externos e atuo no desenvolvimento em todas as aréas conforme sejam necessarias (DevOps, Back-End e Front-end).
+      Atuo em projetos internos e externos, desenvolvendo em todas as áreas conforme necessário (DevOps, Back-End e Front-End).
     technologies_used: | 
-      C#, Javascript, Typescript, Angular, React, SQL Server, Figma
+      Javascript, Typescript, Angular, React, Vue, SQL Server, Figma, Linux, Docker, Jenkins, C#, Java, Spring Boot
   
   - role: Desenvolvedor Web PHP
-    time: 2019-2019
+    time: 2019
     company: Contabilidade Amorim
     details: |
-      Realizei o planejamento e desenvolvimento do site da contabilidade, utilizando
-      PHP como backend e HTML e CSS como frontend.
+      Realizei o planejamento e desenvolvimento do site da contabilidade, utilizando PHP como backend e HTML e CSS como frontend.
     technologies_used: | 
-      CSS, HTML, PHP
+      CSS, HTML, Javascript, PHP
 
 projects:
-  - title: BV Comissões
+  - title: Meta3AI
     link: #
     details: |
-      Conversão de um projeto feito em VB6 para Angular e Java do Banco Votorantim (Banco BV), 
-      O sistema Comissão Loja é responsável por centralizar os pagamentos de comissões, também conhecido como retorno do lojista. 
-      Ele recebe valores através de procedimentos de Acordos comerciais de consignado.
+      Meta3AI é um sistema que lê e analisa códigos, gerando dados baseados no código. Minha principal responsabilidade foi o frontend, mas também configurei o servidor do zero, implementei Jenkins e automatizei o deploy com Docker.
     technologies_used: | 
-      Angular, Typescript, JavaScript, SCSS, Figma
+      Vue, Typescript, JavaScript, Sass, Figma, Jenkins, Docker, IA, DevOps, Azure
+
+  - title: ISPB
+    link: #
+    details: |
+      Conversão de um projeto de VB6 para Angular e Java para um banco X. O sistema ISPB centraliza os pagamentos de comissões, também conhecido como retorno do lojista. Recebe valores através de procedimentos de acordos comerciais de consignado.
+    technologies_used: | 
+      Angular, Typescript, JavaScript, Sass, Figma, Jenkins, SonarLint, Bitbucket
+
+  - title: Comissões
+    link: #
+    details: |
+      Conversão de um projeto de VB6 para Angular e Java para um banco X. O sistema Comissão Loja centraliza os pagamentos de comissões, também conhecido como retorno do lojista. Recebe valores através de procedimentos de acordos comerciais de consignado.
+    technologies_used: | 
+      Angular, Typescript, JavaScript, Sass, Figma, Jenkins, SonarLint, Bitbucket
 
   - title: Meta3TD
     link: #
     details: |
-      Meta3TD é um sistema de conversão de código que lê e analiza códigos, para produzir CRUD's de forma automatica no front-end de um sistema.
+      Meta3TD é um sistema de conversão de códigos lidos e analisados pelo Meta3AI para produzir CRUDs e Swagger de forma automática em Angular, Vue e React.
     technologies_used: | 
-      C#, Typescript, React, SQL Server
+      React, Angular, Vue, C#, Typescript, SQL Server
 
-  - title: Servidor
+  - title: Servidor Empresarial
     link: #
     details: |
-      Configurei todo o sistema do servidor da empresa em Linux e criei um sistema de publicação para todos os projetos, backup diário de todos os bancos e gerenciamento de acesso remoto para a equipe. Foi um trabalho desafiador, mas estou feliz em dizer que tudo foi feito com sucesso, aumentando a eficiência da empresa e protegendo nossos dados.
+      Configurei todo o sistema do servidor da empresa do zero em Linux e criei um sistema de publicação para todos os projetos, backup diário de todos os bancos e gerenciamento de acesso remoto para a equipe. O trabalho aumentou a eficiência da empresa e protegeu nossos dados.
     technologies_used: | 
-      Linux, Docker, Nginx, CronJobs, CockPit, IIS, Virtualbox
+      Linux, Docker, Nginx, CronJobs, DevOps, IIS, Virtual Machines
 
   - title: GM3
     link: #
     details: |
-      Projeto de gestão de colaboradores da empresa envolvendo sistemas de armazenamento de usuarios,
-      apontamento, férias, envio e recebimento de contra-cheque, relatórios, certificações e contratação de pessoas.
+      Projeto de gestão de colaboradores da empresa envolvendo sistemas de armazenamento de usuários, apontamento, férias, envio e recebimento de contracheque, relatórios, certificações e contratação de pessoas.
     technologies_used: | 
-      C#, Typescript, React, SQL Server
+      Typescript, React, C#, SQL Server
 
   - title: Controle de Ativos 
     link: #
     details: |
-      Sistema desenvolvido para gestão de todos os Ativos da empresa.
+      Sistema de gestão de todos os ativos da empresa.
     technologies_used: | 
       C#, ASP.NET, MVC e Entity Framework
 
 publications:
-  - title: Javascript Game Developer.
+  - title: Javascript Game Developer
     link: "https://www.dio.me/certificate/FBB6403F/"
     authors: DIO
     conference: 07/06/2021
 
-  - title: MLOps Fundamentals.
+  - title: MLOps Fundamentals
+    link: "https://www.coursera.org/account/accomplishments/verify/NR8S963QFLE6"
+    authors: Google
+    conference: 08/02/2021
+
+  - title: Cybersecurity
     link: "https://www.coursera.org/account/accomplishments/verify/NR8S963QFLE6"
     authors: Google
     conference: 08/02/2021
