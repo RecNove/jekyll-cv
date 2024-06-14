@@ -15,22 +15,6 @@ languages:
   - idiom: Inglês - C2
   - idiom: Português - Nativo
 
-education:
-  - degree: Engenharia de Software
-    time: 2023-2026
-    university: FIAP
-
-  - degree: Engenharia da Computação
-    time: 2020-2022
-    university: PUC Minas
-
-  - degree: Colégio Técnico T.I
-    time: 2018-2019
-    university: Colégio Cotemig
-
-  - degree: Computação Gráfica
-    time: 2015-2017
-    university: Escola Seven7
 
 
 skills:
@@ -62,6 +46,23 @@ skills:
       - Pacote Office
       - Photoshop, Af. Effects, Illustrator
       - Métodologias Scrum
+
+education:
+  - degree: Engenharia de Software
+    time: 2023-2026
+    university: FIAP
+
+  - degree: Engenharia da Computação
+    time: 2020-2022
+    university: PUC Minas
+
+  - degree: Colégio Técnico T.I
+    time: 2018-2019
+    university: Colégio Cotemig
+
+  - degree: Computação Gráfica
+    time: 2015-2017
+    university: Escola Seven7
 
 # Profile
 profile: |
