@@ -69,12 +69,12 @@ profile: |
 
 experience:
   - role: Desenvolvedor Fullstack 
-    time: 2021 - Atual
+    time: jul/2021 - Atual
     company: Meta3 Services & Technologies
     details: |
       Atuo em projetos internos e externos, desenvolvendo em todas as áreas conforme necessário (DevOps, Back-End e Front-End).
     technologies_used: | 
-      Javascript, Typescript, Angular, React, Vue, SQL Server, Figma, Linux, Docker, Jenkins, C#, Java, Spring Boot
+      Javascript, Typescript, Angular, React, Vue, Nuxt, SQL Server, Figma, Linux, Docker, Jenkins, C#, Java, Spring Boot, Photoshop, Edição de Video
   
   - role: Desenvolvedor Web PHP
     time: mai/2019 - jul/2019
