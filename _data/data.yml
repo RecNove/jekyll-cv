@@ -69,7 +69,7 @@ profile: |
 
 experience:
   - role: Desenvolvedor Fullstack 
-    time: 2021-Atual
+    time: 2021 - Atual
     company: Meta3 Services & Technologies
     details: |
       Atuo em projetos internos e externos, desenvolvendo em todas as áreas conforme necessário (DevOps, Back-End e Front-End).
@@ -77,7 +77,7 @@ experience:
       Javascript, Typescript, Angular, React, Vue, SQL Server, Figma, Linux, Docker, Jenkins, C#, Java, Spring Boot
   
   - role: Desenvolvedor Web PHP
-    time: 2019
+    time: mai/2019 - jul/2019
     company: Contabilidade Amorim
     details: |
       Realizei o planejamento e desenvolvimento do site da contabilidade, utilizando PHP como backend e HTML e CSS como frontend.
