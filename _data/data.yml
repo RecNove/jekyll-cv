@@ -24,9 +24,14 @@ education:
     time: 2020-2022
     university: PUC Minas
 
-  - degree: Formação Técnica T.I
+  - degree: Colégio Técnico Programação
     time: 2018-2019
     university: Colégio Cotemig
+
+  - degree: Computação Gráfica
+    time: 2015-2017
+    university: Escola Seven7
+
 
 skills:
   - category: Habilidades Frontend
@@ -36,8 +41,10 @@ skills:
       - React - Intermediário
       - Angular - Intermediário
       - Vue - Intermediário
+      - Nuxt - Intermediário
       - Jest (Teste Unitário) - Básico
-      - Progressive Web Apps (PWA) - Básico
+      - PWA - Básico
+      - Electron - Básico
       - SASS/LESS - Básico
     
   - category: Habilidades Backend
@@ -47,10 +54,6 @@ skills:
       - PHP - Básico
       - Python - Básico
       - Java - Básico
-      - Node - Básico
-      - NestJS - Básico
-      - Express - Básico
-      - Adonisjs - Básico
 
   - category: Habilidades DevOps
     skill:
@@ -59,25 +62,16 @@ skills:
       - Jenkins - Intermediário
       - K8s - Básico
 
-  - category: Habilidades Design
-    skill:
-      - Figma - Intermediário
-      - Photoshop - Básico
-      - Illustrator - Básico
-      - After Effect's - Básico
-      - Sony Vegas - Básico
-
-  - category: Habilidades Banco de Dados
-    skill:
-      - Bancos Relacionais (MySQL, SQLServer)
-      - Bancos Não Relacionais (MongoDB)
-
   - category: Habilidades Extras
     skill:
-      - Controle de Versionamento (Git)
+      - Pacote Office: Excel, Word, Powerpoint
+      - Pacote Adobe: Psd, Ai, Xd, Ae
+      - Banco de Dados Relacionais
+      - Banco de Dados Não Relacionais
+      - Controle de Versionamento
       - Métodologias Scrum
+      - Ferramentas de Gerenciamento
       - APIs (REST, GRAPHQL)
-      - Ferramentas de Gerenciamento de Projetos (Jira, Trello, Azure Boards)
 
 # Profile
 profile: |
@@ -104,52 +98,52 @@ experience:
       CSS, HTML, Javascript, PHP
 
 projects:
-  - title: Meta3AI
+  - title: Sistema de Análise de Código
     link: #
     details: |
-      Meta3AI é um sistema que lê e analisa códigos, gerando dados baseados no código. Minha principal responsabilidade foi o frontend, mas também configurei o servidor do zero, implementei Jenkins e automatizei o deploy com Docker.
+      Desenvolvi um sistema que lê e analisa códigos, gerando dados baseados no código. Minha principal responsabilidade foi o frontend, mas também configurei o servidor do zero, implementei Jenkins e automatizei o deploy com Docker.
     technologies_used: | 
-      Vue, Typescript, JavaScript, Sass, Figma, Jenkins, Docker, IA, DevOps, Azure
+      Vue, Nuxt, Typescript, JavaScript, Sass, Figma, Jenkins, Docker, IA, DevOps, Azure
 
-  - title: ISPB
+  - title: Conversão de Projeto VB6
     link: #
     details: |
-      Conversão de um projeto de VB6 para Angular e Java para um banco X. O sistema ISPB centraliza os pagamentos de comissões, também conhecido como retorno do lojista. Recebe valores através de procedimentos de acordos comerciais de consignado.
-    technologies_used: | 
-      Angular, Typescript, JavaScript, Sass, Figma, Jenkins, SonarLint, Bitbucket, Jira
-
-  - title: Comissões
-    link: #
-    details: |
-      Conversão de um projeto de VB6 para Angular e Java para um banco X. O sistema Comissão Loja centraliza os pagamentos de comissões, também conhecido como retorno do lojista. Recebe valores através de procedimentos de acordos comerciais de consignado.
+      Converti um projeto de VB6 para Angular e Java para um banco. O sistema centraliza os pagamentos de comissões, também conhecido como retorno do lojista. Recebe valores através de procedimentos de acordos comerciais de consignado.
     technologies_used: | 
       Angular, Typescript, JavaScript, Sass, Figma, Jenkins, SonarLint, Bitbucket, Jira
 
-  - title: Meta3TD
+  - title: Conversão de Projeto VB6
     link: #
     details: |
-      Meta3TD é um sistema de conversão de códigos lidos e analisados pelo Meta3AI para produzir CRUDs e Swagger de forma automática em Angular, Vue e React.
+      Converti um projeto de VB6 para Angular e Java para um banco. O sistema centraliza os pagamentos de comissões, também conhecido como retorno do lojista. Recebe valores através de procedimentos de acordos comerciais de consignado.
+    technologies_used: | 
+      Angular, Typescript, JavaScript, Sass, Figma, Jenkins, SonarLint, Bitbucket, Jira
+
+  - title: Sistema de Conversão de Código
+    link: #
+    details: |
+      Desenvolvi um sistema que converte códigos lidos e analisados para produzir CRUDs e Swagger automaticamente em Angular, Vue e React.
     technologies_used: | 
       React, Angular, Vue, C#, Typescript, SQL Server
 
-  - title: Servidor Empresarial
+  - title: Configuração de Servidor
     link: #
     details: |
-      Configurei todo o sistema do servidor da empresa do zero em Linux e criei um sistema de publicação para todos os projetos, backup diário de todos os bancos e gerenciamento de acesso remoto para a equipe. O trabalho aumentou a eficiência da empresa e protegeu nossos dados.
+      Configurei todo o sistema de servidor da empresa do zero em Linux e criei um sistema de publicação para todos os projetos, backup diário de todos os bancos e gerenciamento de acesso remoto para a equipe. O trabalho aumentou a eficiência da empresa e protegeu nossos dados.
     technologies_used: | 
       Linux, Docker, Nginx, CronJobs, DevOps, IIS, Virtual Machines
 
-  - title: GM3
+  - title: Sistema de Gestão de Colaboradores
     link: #
     details: |
-      Projeto de gestão de colaboradores da empresa envolvendo sistemas de armazenamento de usuários, apontamento, férias, envio e recebimento de contracheque, relatórios, certificações e contratação de pessoas.
+      Colaborei no desenvolvimento de um projeto de gestão de colaboradores, incluindo armazenamento de usuários, apontamento, férias, envio e recebimento de contracheques, relatórios, certificações e contratação de pessoas.
     technologies_used: | 
       Typescript, React, C#, SQL Server
 
-  - title: Controle de Ativos 
+  - title: Sistema de Controle de Ativos  
     link: #
     details: |
-      Sistema de gestão de todos os ativos da empresa.
+      Colaborei no desenvolvimento de um sistema de gestão de todos os ativos da empresa.
     technologies_used: | 
       C#, ASP.NET, MVC e Entity Framework
 
