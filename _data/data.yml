@@ -41,11 +41,6 @@ skills:
       - React - Intermediário
       - Angular - Intermediário
       - Vue - Intermediário
-      - Nuxt - Intermediário
-      - Jest (Teste Unitário) - Básico
-      - PWA - Básico
-      - Electron - Básico
-      - SASS/LESS - Básico
     
   - category: Habilidades Backend
     skill: 
@@ -67,7 +62,6 @@ skills:
       - Pacote Office
       - Photoshop, Af. Effects, Illustrator
       - Banco de Dados Relacionais
-      - Banco de Dados Não Relacionais
       - Controle de Versionamento
       - Métodologias Scrum
       - Ferramentas de Gerenciamento
@@ -75,9 +69,7 @@ skills:
 
 # Profile
 profile: |
-  Sou um desenvolvedor de software com ampla experiência em várias linguagens de programação e frameworks. 
-  Adoto uma abordagem ágil e colaborativa, sempre buscando aprender novas tecnologias para resolver problemas complexos. 
-  Estou disponível para discutir oportunidades onde eu possa aplicar minhas habilidades técnicas e mentalidade inovadora.
+  Tenho 23 anos e atualmente trabalho com foco em desenvolvimento Web. Busco desafios que me conduzam às atividades profissionais relacionadas a Desenvolvimento Fullstack Desejo ampliar meus conhecimentos e habilidades, ganhando e compartilhando experiências.
 
 # Experience
 experience:
