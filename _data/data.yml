@@ -12,7 +12,7 @@ contact:
   twitter: 
 
 languages:
-  - idiom: Inglês - C2 Proficient
+  - idiom: Inglês - C2
   - idiom: Português - Nativo
 
 education:
@@ -29,14 +29,6 @@ education:
     university: Colégio Cotemig
 
 skills:
-  - category: Habilidades Backend
-    skill: 
-      - C# - Básico
-      - C - Básico
-      - PHP - Básico
-      - Python - Básico
-      - Java - Básico
-      - NestJS - Básico
   - category: Habilidades Frontend
     skill:
       - Javascript - Intermediário
@@ -45,13 +37,48 @@ skills:
       - Angular - Intermediário
       - Vue - Intermediário
       - Jest (Teste Unitário) - Básico
-  - category: Habilidades Extras
+      - Progressive Web Apps (PWA) - Básico
+      - SASS/LESS - Básico
+    
+  - category: Habilidades Backend
+    skill: 
+      - C# - Básico
+      - C - Básico
+      - PHP - Básico
+      - Python - Básico
+      - Java - Básico
+      - Node - Básico
+      - NestJS - Básico
+      - Express - Básico
+      - Adonisjs - Básico
+
+  - category: Habilidades DevOps
     skill:
-      - Figma - Intermediário
       - Docker - Intermediário
       - Linux - Intermediário
       - Jenkins - Intermediário
-      - SQL - Intermediário
+      - K8s - Básico
+
+  - category: Habilidades Design
+    skill:
+      - Figma - Intermediário
+      - Photoshop - Básico
+      - Illustrator - Básico
+      - After Effect's - Básico
+      - Sony Vegas - Básico
+
+  - category: Habilidades Banco de Dados
+    skill:
+      - Bancos Relacionais (MySQL, SQLServer)
+      - Bancos Não Relacionais (MongoDB)
+
+  - category: Habilidades Extras
+    skill:
+      - Controle de Versionamento (Git)
+      - Métodologias Scrum
+      - APIs (REST, GRAPHQL)
+      - Ferramentas de Gerenciamento de Projetos (Jira, Trello, Azure Boards)
+
 # Profile
 profile: |
   Sou um desenvolvedor de software com ampla experiência em várias linguagens de programação e frameworks. 
@@ -89,14 +116,14 @@ projects:
     details: |
       Conversão de um projeto de VB6 para Angular e Java para um banco X. O sistema ISPB centraliza os pagamentos de comissões, também conhecido como retorno do lojista. Recebe valores através de procedimentos de acordos comerciais de consignado.
     technologies_used: | 
-      Angular, Typescript, JavaScript, Sass, Figma, Jenkins, SonarLint, Bitbucket
+      Angular, Typescript, JavaScript, Sass, Figma, Jenkins, SonarLint, Bitbucket, Jira
 
   - title: Comissões
     link: #
     details: |
       Conversão de um projeto de VB6 para Angular e Java para um banco X. O sistema Comissão Loja centraliza os pagamentos de comissões, também conhecido como retorno do lojista. Recebe valores através de procedimentos de acordos comerciais de consignado.
     technologies_used: | 
-      Angular, Typescript, JavaScript, Sass, Figma, Jenkins, SonarLint, Bitbucket
+      Angular, Typescript, JavaScript, Sass, Figma, Jenkins, SonarLint, Bitbucket, Jira
 
   - title: Meta3TD
     link: #
@@ -133,11 +160,6 @@ publications:
     conference: 07/06/2021
 
   - title: MLOps Fundamentals
-    link: "https://www.coursera.org/account/accomplishments/verify/NR8S963QFLE6"
-    authors: Google
-    conference: 08/02/2021
-
-  - title: Cybersecurity
     link: "https://www.coursera.org/account/accomplishments/verify/NR8S963QFLE6"
     authors: Google
     conference: 08/02/2021
