@@ -14,7 +14,7 @@ contact:
 languages:
   - idiom: Inglês - C2
   - idiom: Português - Nativo
-  
+
 skills:
   - category: Habilidades Frontend
     skill:
@@ -84,25 +84,43 @@ experience:
     technologies_used: | 
       CSS, HTML, Javascript, PHP
 
+# Experience
+experience:
+  - role: Desenvolvedor Fullstack 
+    time: 2021-Atual
+    company: Meta3 Services & Technologies
+    details: |
+      Atuo em projetos internos e externos, desenvolvendo em todas as áreas conforme necessário (DevOps, Back-End e Front-End).
+    technologies_used: | 
+      Javascript, Typescript, Angular, React, Vue, SQL Server, Figma, Linux, Docker, Jenkins, C#, Java, Spring Boot
+  
+  - role: Desenvolvedor Web PHP
+    time: 2019
+    company: Contabilidade Amorim
+    details: |
+      Realizei o planejamento e desenvolvimento do site da contabilidade, utilizando PHP como backend e HTML e CSS como frontend.
+    technologies_used: | 
+      CSS, HTML, Javascript, PHP
+
 projects:
   - title: Sistema de Análise de Código
     link: #
     details: |
-      Desenvolvi um sistema para leitura e análise de códigos, focado principalmente no frontend, com configuração de servidor, Jenkins e deploy automatizado com Docker.
+      Ajudei no desenvolvimento de um sistema para leitura e análise de códigos.
     technologies_used: | 
       Vue, Nuxt, Typescript, JavaScript, Sass, Figma, Jenkins, Docker, IA, DevOps, Azure
 
   - title: Conversão de Projetos em VB6
     link: #
     details: |
-      Converti projetos VB6 para Angular e Java, centralizando pagamentos e procedimentos comerciais.
+      Converti projetos VB6 de um banco para Angular e Java, centralizando pagamentos e procedimentos comerciais.
     technologies_used: | 
       Angular, Typescript, JavaScript, Sass, Figma, Jenkins, SonarLint, Bitbucket, Jira
 
   - title: Sistema de Conversão de Código
     link: #
     details: |
-      Desenvolvi um sistema que converte códigos em CRUDs automáticos para Angular, Vue e React.
+      Ajudei no desenvolvimento de um sistema que converte códigos em CRUDs automáticos para Angular, Vue e React.
     technologies_used: | 
       React, Angular, Vue, C#, Typescript, SQL Server
 
@@ -116,14 +134,14 @@ projects:
   - title: Sistema de Gestão de Colaboradores
     link: #
     details: |
-      Desenvolvi um sistema para gestão de colaboradores, incluindo armazenamento de dados, relatórios e gerenciamento de contracheques.
+      Ajudei no desenvolvimento de um sistema para gestão de colaboradores, incluindo armazenamento de dados, relatórios e gerenciamento de contracheques.
     technologies_used: | 
       Typescript, React, C#, SQL Server
 
   - title: Sistema de Controle de Ativos  
     link: #
     details: |
-      Desenvolvi um sistema para gestão de ativos da empresa.
+      Ajudei no desenvolvimento de um sistema para gestão de ativos da empresa.
     technologies_used: | 
       C#, ASP.NET, MVC, Entity Framework
 
