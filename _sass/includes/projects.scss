@@ -13,9 +13,9 @@
         .details {
             @include body-text;
         }
-
-        .technologies {
-            font-size: 12px
-        }
     }
+}
+
+.technologies {
+    font-size: 12px;
 }
