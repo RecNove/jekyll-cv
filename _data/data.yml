@@ -33,35 +33,33 @@ education:
     university: Escola Seven7
 
 skills:
-  - category: Habilidades Frontend
+  - category: Habilidades Desenvolvimento
     skill:
       - Javascript - Intermediário
       - Typescript - Intermediário
       - React - Intermediário
       - Angular - Intermediário
       - Vue - Intermediário
-    
-  - category: Habilidades Backend
-    skill: 
       - C# - Básico
       - C - Básico
       - PHP - Básico
       - Python - Básico
-      - Java - Básico
+      - Java, Spring - Básico
 
   - category: Habilidades DevOps
     skill:
       - Docker - Intermediário
       - Linux - Intermediário
       - Jenkins - Intermediário
-      - K8s - Básico
 
-  - category: Habilidades Extras
+  - category: Conhecimentos Extras
     skill:
       - Pacote Office
-      - Photoshop, Illustrator
-      - Edição de video
+      - UI/UX (Figma, Photoshop)
+      - CI/CD
       - Métodologias Scrum
+      - Solid
+      - MVC
 
 # Content
 profile: |
@@ -109,9 +107,9 @@ projects:
   - title: Configuração de Servidor
     link: #
     details: |
-      Configurei o sistema de servidor da empresa, incluindo publicação de projetos, backups diários e gerenciamento de acesso remoto.
+      Configurei o sistema de servidor da empresa, incluindo ambiente de CI/CD, backups diários e gerenciamento de acesso remoto.
     technologies_used: | 
-      Linux, Docker, Nginx, CronJobs, DevOps, IIS, Virtual Machines
+      Linux, Docker, Nginx, CronJobs, DevOps, IIS, Jenkins, Virtual Machines
 
   - title: Sistema de Gestão de Colaboradores
     link: #
@@ -127,3 +125,13 @@ projects:
     technologies_used: | 
       C#, ASP.NET, MVC, Entity Framework
 
+publications:
+  - title: Javascript Game Developer
+    link: "https://www.dio.me/certificate/FBB6403F/"
+    authors: DIO
+    conference: 07/06/2021
+
+  - title: MLOps Fundamentals
+    link: "https://www.coursera.org/account/accomplishments/verify/NR8S963QFLE6"
+    authors: Google
+    conference: 08/02/2021
