@@ -80,7 +80,7 @@ experience:
     time: mai/2019 - jul/2019
     company: Contabilidade Amorim
     details: |
-      Realizei o planejamento e desenvolvimento do site da contabilidade, utilizando PHP como backend e HTML e CSS como frontend.
+      Realizei o planejamento e desenvolvimento do site completo da contabilidade, utilizando PHP como backend e HTML e CSS como frontend.
     technologies_used: | 
       CSS, HTML, Javascript, PHP
 
@@ -88,44 +88,38 @@ projects:
   - title: Sistema de Análise de Código
     link: #
     details: |
-      Ajudei no desenvolvimento de um sistema para leitura e análise de códigos.
-    technologies_used: | 
-      Vue, Nuxt, Typescript, JavaScript, Sass, Figma, Jenkins, Docker, IA, DevOps, Azure
+      Trabalhei no desenvolvimento de um sistema que lê e análisa códigos gerando documentação e diagramas.
+      tecnologias usadas: Vue, Nuxt, Typescript, JavaScript, Sass, Figma, Jenkins, Docker, IA, DevOps, Azure
 
   - title: Conversão de Projetos em VB6
     link: #
     details: |
-      Converti projetos VB6 de um banco para Angular e Java, centralizando pagamentos e procedimentos comerciais.
-    technologies_used: | 
-      Angular, Typescript, JavaScript, Sass, Figma, Jenkins, SonarLint, Bitbucket, Jira
+      Trabalhei por 1 ano convertendo grandes projetos feitos em VB6 de um certo banco famoso no brasil para Angular e Java, centralizando pagamentos e procedimentos comerciais.
+      tecnologias usadas: Angular, Typescript, JavaScript, Sass, Figma, Jenkins, SonarLint, Bitbucket, Jira
 
   - title: Sistema de Conversão de Código
     link: #
     details: |
-      Ajudei no desenvolvimento de um sistema que converte códigos em CRUDs automáticos para Angular, Vue e React.
-    technologies_used: | 
-      React, Angular, Vue, C#, Typescript, SQL Server
+      Trabalhei no desenvolvimento de um sistema que Lê documentação e converte para códigos CRUDs automáticamente em Angular, Vue e React.
+      tecnologias usadas: React, Angular, Vue, C#, Typescript, SQL Server
 
   - title: Configuração de Servidor
     link: #
     details: |
       Configurei o sistema de servidor da empresa, incluindo publicação de projetos, backups diários e gerenciamento de acesso remoto.
-    technologies_used: | 
-      Linux, Docker, Nginx, CronJobs, DevOps, IIS, Virtual Machines
+      tecnologias usadas: Linux, Docker, Nginx, CronJobs, DevOps, IIS, Virtual Machines
 
   - title: Sistema de Gestão de Colaboradores
     link: #
     details: |
       Ajudei no desenvolvimento de um sistema para gestão de colaboradores, incluindo armazenamento de dados, relatórios e gerenciamento de contracheques.
-    technologies_used: | 
-      Typescript, React, C#, SQL Server
+      tecnologias usadas: Typescript, React, C#, SQL Server
 
   - title: Sistema de Controle de Ativos  
     link: #
     details: |
       Ajudei no desenvolvimento de um sistema para gestão de ativos da empresa.
-    technologies_used: | 
-      C#, ASP.NET, MVC, Entity Framework
+      tecnologias usadas: C#, ASP.NET, MVC, Entity Framework
 
 publications:
   - title: Javascript Game Developer
