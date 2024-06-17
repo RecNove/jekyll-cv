@@ -16,6 +16,8 @@
 
         .technologies {
             @include body-text;
+            color: var(--fg-color-body);
+            font-size: 14px
         }
     }
 }
