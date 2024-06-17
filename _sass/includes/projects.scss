@@ -13,10 +13,5 @@
         .details {
             @include body-text;
         }
-
-        .projects_technologies {
-            color: red;
-            font-size: 12px !important;
-        }
     }
 }
