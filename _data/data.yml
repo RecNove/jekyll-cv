@@ -89,37 +89,43 @@ projects:
     link: #
     details: |
       Trabalhei no desenvolvimento de um sistema que lê e análisa códigos gerando documentação e diagramas.
-      tecnologias usadas: Vue, Nuxt, Typescript, JavaScript, Sass, Figma, Jenkins, Docker, IA, DevOps, Azure
+
+      Tecnologias usadas: Vue, Nuxt, Typescript, JavaScript, Sass, Figma, Jenkins, Docker, IA, DevOps, Azure
 
   - title: Conversão de Projetos em VB6
     link: #
     details: |
       Trabalhei por 1 ano convertendo grandes projetos feitos em VB6 de um certo banco famoso no brasil para Angular e Java, centralizando pagamentos e procedimentos comerciais.
-      tecnologias usadas: Angular, Typescript, JavaScript, Sass, Figma, Jenkins, SonarLint, Bitbucket, Jira
+      
+      Tecnologias usadas: Angular, Typescript, JavaScript, Sass, Figma, Jenkins, SonarLint, Bitbucket, Jira
 
   - title: Sistema de Conversão de Código
     link: #
     details: |
       Trabalhei no desenvolvimento de um sistema que Lê documentação e converte para códigos CRUDs automáticamente em Angular, Vue e React.
-      tecnologias usadas: React, Angular, Vue, C#, Typescript, SQL Server
+      
+      Tecnologias usadas: React, Angular, Vue, C#, Typescript, SQL Server
 
   - title: Configuração de Servidor
     link: #
     details: |
       Configurei o sistema de servidor da empresa, incluindo publicação de projetos, backups diários e gerenciamento de acesso remoto.
-      tecnologias usadas: Linux, Docker, Nginx, CronJobs, DevOps, IIS, Virtual Machines
+      
+      Tecnologias usadas: Linux, Docker, Nginx, CronJobs, DevOps, IIS, Virtual Machines
 
   - title: Sistema de Gestão de Colaboradores
     link: #
     details: |
       Ajudei no desenvolvimento de um sistema para gestão de colaboradores, incluindo armazenamento de dados, relatórios e gerenciamento de contracheques.
-      tecnologias usadas: Typescript, React, C#, SQL Server
+      
+      Tecnologias usadas: Typescript, React, C#, SQL Server
 
   - title: Sistema de Controle de Ativos  
     link: #
     details: |
       Ajudei no desenvolvimento de um sistema para gestão de ativos da empresa.
-      tecnologias usadas: C#, ASP.NET, MVC, Entity Framework
+      
+      Tecnologias usadas: C#, ASP.NET, MVC, Entity Framework
 
 publications:
   - title: Javascript Game Developer
