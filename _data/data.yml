@@ -102,7 +102,7 @@ projects:
   - title: Sistema de Conversão de Código
     link: #
     details: |
-      Trabalhei no desenvolvimento de um sistema que Lê documentação e converte para códigos CRUDs automáticamente em Angular, Vue e React.
+      Trabalhei no desenvolvimento de um sistema que lê documentação e converte para códigos CRUDs automáticamente em Angular, Vue e React.
     technologies_used: | 
       React, Angular, Vue, C#, Typescript, SQL Server
 
@@ -116,14 +116,14 @@ projects:
   - title: Sistema de Gestão de Colaboradores
     link: #
     details: |
-      Ajudei no desenvolvimento de um sistema para gestão de colaboradores, incluindo armazenamento de dados, relatórios e gerenciamento de contracheques.
+      Trabalhei no desenvolvimento de um sistema para gestão de colaboradores, incluindo armazenamento de dados, relatórios e gerenciamento de contracheques.
     technologies_used: | 
       Typescript, React, C#, SQL Server
 
   - title: Sistema de Controle de Ativos  
     link: #
     details: |
-      Ajudei no desenvolvimento de um sistema para gestão de ativos da empresa.
+      Trabalhei no desenvolvimento de um sistema para gestão de ativos da empresa.
     technologies_used: | 
       C#, ASP.NET, MVC, Entity Framework
 
