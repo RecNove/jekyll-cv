@@ -33,7 +33,7 @@ education:
     university: Escola Seven7
 
 skills:
-  - category: Habilidades Desenvolvimento
+  - category: Habilidades Fullstack
     skill:
       - Javascript - Intermediário
       - Typescript - Intermediário
