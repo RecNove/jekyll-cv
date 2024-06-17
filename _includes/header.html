@@ -4,7 +4,14 @@
     <label for="download"><i data-feather="download" fill="var(--fg-color)"></i></label>
   </button>
   {% if site.data.data.support_dark_mode%}
-    <input type="checkbox" id="switch" name="mode" class="toggle-dark"></input>
-    <label for="switch"><i id="moon" data-feather="moon" fill="var(--fg-color)"></i></label>
+  <input type="checkbox" id="switch" name="mode" class="toggle-dark"></input>
+  <label for="switch"><i id="moon" data-feather="moon" fill="var(--fg-color)"></i></label>
   {%endif%}
 </div>
+
+<script>
+  function downloadPDF() {
+    console.log('Download button clicked');
+    window.print();
+  }
+</script>
