@@ -1,17 +1,18 @@
 <div class="header">
   <h1 class="title">{{site.data.data.name}}</h1>
-  <button id="download" name="downloadPDF" class="download-button" onclick="downloadPDF()">
-    <label for="download"><i data-feather="download" fill="var(--fg-color)"></i></label>
-  </button>
   {% if site.data.data.support_dark_mode%}
-  <input type="checkbox" id="switch" name="mode" class="toggle-dark"></input>
-  <label for="switch"><i id="moon" data-feather="moon" fill="var(--fg-color)"></i></label>
+  <div>
+    <button id="download" name="downloadPDF" class="download-button" onclick="downloadPDF()">
+      <label for="download"><i data-feather="download" fill="var(--fg-color)"></i></label>
+    </button>
+    <input type="checkbox" id="switch" name="mode" class="toggle-dark"></input>
+    <label for="switch"><i id="moon" data-feather="moon" fill="var(--fg-color)"></i></label>
+  </div>
   {%endif%}
 </div>
 
 <script>
   function downloadPDF() {
-    console.log('Download button clicked');
     window.print();
   }
 </script>
