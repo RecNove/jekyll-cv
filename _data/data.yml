@@ -127,13 +127,3 @@ projects:
     technologies_used: | 
       C#, ASP.NET, MVC, Entity Framework
 
-publications:
-  - title: Javascript Game Developer
-    link: "https://www.dio.me/certificate/FBB6403F/"
-    authors: DIO
-    conference: 07/06/2021
-
-  - title: MLOps Fundamentals
-    link: "https://www.coursera.org/account/accomplishments/verify/NR8S963QFLE6"
-    authors: Google
-    conference: 08/02/2021
