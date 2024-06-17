@@ -1,6 +1,6 @@
 <div class="header">
   <h1 class="title">{{site.data.data.name}}</h1>
-  <button id="download" name="downloadPDF" class="download-button">
+  <button id="download" name="downloadPDF" class="download-button" onclick="downloadPDF()">
     <label for="download"><i data-feather="download" fill="var(--fg-color)"></i></label>
   </button>
   {% if site.data.data.support_dark_mode%}
