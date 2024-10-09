@@ -1,6 +1,7 @@
-{% assign data = site.data.engdata %}
+{% assign data = site.data.dataeng %}
 <!DOCTYPE html>
 <html lang="en">
+    <pre>{{ data | jsonify }}</pre>
 {% include head.html %}
 <body>
     {{content}}
