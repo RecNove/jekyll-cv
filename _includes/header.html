@@ -3,6 +3,32 @@
     border: none;
     background: none;
   }
+
+  #language-selector {
+    color: white; /* Text color */
+    background-color: #00629b; /* Background color */
+    border: 1px solid #00629b; /* Border color */
+    border-radius: 5px; /* Rounded corners */
+    padding: 5px 10px; /* Padding for better appearance */
+    font-size: 16px; /* Font size */
+    cursor: pointer; /* Pointer cursor on hover */
+    appearance: none; /* Remove default arrow for a custom look (optional) */
+    -webkit-appearance: none;
+    -moz-appearance: none;
+  }
+
+  /* Optional: Add a custom dropdown arrow */
+  #language-selector {
+    background-image: url('data:image/svg+xml;charset=US-ASCII,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><path fill="white" d="M12 6l-4 4-4-4h8z"/></svg>');
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    background-size: 10px;
+  }
+
+  #language-selector:focus {
+    outline: none; /* Remove outline on focus */
+    box-shadow: 0 0 5px rgba(0, 98, 155, 0.5); /* Add a subtle shadow when focused */
+  }
 </style>
 
 <div class="header">
@@ -40,7 +66,6 @@
     }
   }
 
-  // Function to set the selected option based on the current page
   function setLanguage() {
     const currentPage = window.location.pathname;
     const languageSelector = document.getElementById('language-selector');
@@ -52,6 +77,5 @@
     }
   }
 
-  // Call setLanguage on page load to set the correct language
   window.onload = setLanguage;
 </script>
