@@ -1,9 +1,9 @@
-{% assign profile = site.data.dataeng.profile %}
-{% assign profile_title = site.data.dataeng.profile_title %}
+{% assign profile = include.data.profile %}
+{% assign profile_title = include.data.profile_title %}
 
 {% if profile %}
 <section class="career-profile">
-    <h2 class="title">{{profile_title}}</h2>
-    <div class="details">{{profile}}</div>
+    <h2 class="title">{{ profile_title }}</h2>
+    <div class="details">{{ profile }}</div>
 </section>
 {% endif %}
