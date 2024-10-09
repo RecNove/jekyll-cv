@@ -1,48 +1,3 @@
-<style>
-  .download-button {
-    border: none;
-    background: none;
-  }
-
-  .button-wrap {
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    gap: 10px;
-  }
-
-  #language-selector {
-    color: white; /* Text color */
-    background-color: var(--fg-color); /* Background color */
-    border: 1px solid var(--fg-color); /* Border color */
-    border-radius: 5px; /* Rounded corners */
-    padding: 5px 15px; /* Padding for better appearance */
-    font-size: 16px; /* Font size */
-    cursor: pointer; /* Pointer cursor on hover */
-    appearance: none; /* Remove default arrow for a custom look (optional) */
-    -webkit-appearance: none;
-    -moz-appearance: none;
-  }
-
-  #language-selector {
-    background-image: url('data:image/svg+xml;charset=US-ASCII,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><path fill="white" d="M12 6l-4 4-4-4h8z"/></svg>');
-    background-repeat: no-repeat;
-    background-position: right 0px center;
-    background-size: 15px;
-  }
-
-  #language-selector:focus {
-    outline: none;
-    box-shadow: 0 0 5px rgba(0, 98, 155, 0.5);
-  }
-
-  @media print {
-    #language-selector {
-      display: none;
-    }
-  }
-</style>
-
 <div class="header">
   <h1 class="title">{{site.data.data.name}}</h1>
   <div class="button-wrap">
@@ -68,13 +23,13 @@
 
   function changeLanguage() {
     const selectedLanguage = document.getElementById('language-selector').value;
-    const basePath = window.location.pathname.split('/').slice(0, -1).join('/'); // Get current path
+    const basePath = window.location.pathname.split('/').slice(0, -1).join('/');
     if (selectedLanguage === 'en') {
-      window.location.href = `${basePath}/en.html`; // Redirect to English version
+      window.location.href = `${basePath}/en.html`;
     } else if (selectedLanguage === 'pt') {
-      window.location.href = `${basePath}/index.html`; // Redirect to Portuguese version
+      window.location.href = `${basePath}/index.html`;
     } else {
-      window.location.href = `${basePath}/index.html`; // Redirect to Portuguese version
+      window.location.href = `${basePath}/index.html`;
     }
   }
 
@@ -83,9 +38,9 @@
     const languageSelector = document.getElementById('language-selector');
 
     if (currentPage.includes('/en.html')) {
-      languageSelector.value = 'en'; // Set English as selected
+      languageSelector.value = 'en';
     } else {
-      languageSelector.value = 'pt'; // Set Portuguese as selected (default)
+      languageSelector.value = 'pt';
     }
   }
 
