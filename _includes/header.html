@@ -33,6 +33,8 @@
     const basePath = window.location.pathname.split('/').slice(0, -1).join('/'); // Get current path
     if (selectedLanguage === 'en') {
       window.location.href = `${basePath}/en.html`; // Redirect to English version
+    }else if(selectedLanguage === 'pt'){
+      window.location.href = `${basePath}/index.html`;// Redirect to Portuguese version
     } else {
       window.location.href = `${basePath}/index.html`; // Redirect to Portuguese version
     }
