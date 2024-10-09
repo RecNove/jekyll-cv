@@ -61,10 +61,7 @@ skills:
   - category: DevOps
     skill:
       - Linux
-      - Nginx
       - CI/CD
-      - IIS
-      - Virtual Machines
 
 # Content
 profile: |
