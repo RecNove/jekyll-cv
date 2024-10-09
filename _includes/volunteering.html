@@ -1,7 +1,8 @@
 {% assign volunteering = include.data.volunteering %}
+{% assign volunteering_title = include.data.volunteering_title %}
 {% if volunteering %}
 <section class="volunteering">
-    <h2 class="title">Trabalho Voluntário</h2>
+    <h2 class="title">{{volunteering_title}}</h2>
     {% for vol in volunteering %}
     <div class="volunteering-item">
         <div class="role">

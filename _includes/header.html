@@ -5,25 +5,24 @@
   }
 </style>
 
-
 <div class="header">
   <h1 class="title">{{site.data.data.name}}</h1>
   <div>
     <button id="download" name="downloadPDF" class="download-button" onclick="downloadPDF()">
       <label for="download"><i data-feather="download" fill="var(--fg-color)"></i></label>
     </button>
-    {% if site.data.data.support_dark_mode%}
+    {% if site.data.data.support_dark_mode %}
       <input type="checkbox" id="switch" name="mode" class="toggle-dark"></input>
       <label for="switch"><i id="moon" data-feather="moon" fill="var(--fg-color)"></i></label>
 
       <select id="language-selector" onchange="changeLanguage()">
-        <option value="pt" selected>Portuguese</option>
+        <option value="pt">Portuguese</option>
         <option value="en">English</option>
       </select>
-    {%endif%}
-
+    {% endif %}
   </div>
 </div>
+
 <script>
   function downloadPDF() {
     window.print();
@@ -34,11 +33,25 @@
     const basePath = window.location.pathname.split('/').slice(0, -1).join('/'); // Get current path
     if (selectedLanguage === 'en') {
       window.location.href = `${basePath}/en.html`; // Redirect to English version
-    }else if(selectedLanguage === 'pt'){
-      window.location.href = `${basePath}/index.html`;// Redirect to Portuguese version
+    } else if (selectedLanguage === 'pt') {
+      window.location.href = `${basePath}/index.html`; // Redirect to Portuguese version
     } else {
       window.location.href = `${basePath}/index.html`; // Redirect to Portuguese version
     }
   }
 
+  // Function to set the selected option based on the current page
+  function setLanguage() {
+    const currentPage = window.location.pathname;
+    const languageSelector = document.getElementById('language-selector');
+
+    if (currentPage.includes('/en.html')) {
+      languageSelector.value = 'en'; // Set English as selected
+    } else {
+      languageSelector.value = 'pt'; // Set Portuguese as selected (default)
+    }
+  }
+
+  // Call setLanguage on page load to set the correct language
+  window.onload = setLanguage;
 </script>
