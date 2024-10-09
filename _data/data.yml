@@ -5,10 +5,11 @@ fork: false
 # Sidebar
 contact:
   email: gabriel@amorim.pro
-  github: https://github.com/AmorimMG
-  linkedin: https://www.linkedin.com/in/gabrielamorim0
-  phone: "(31) 98987-7783"
-  gitlab: https://gitlab.com/AmorimMG
+  github: AmorimMG
+  linkedin: gabrielamorim0
+  phone: (31) 98987-7783
+  gitlab: AmorimMG
+  twitter: 
 
 languages:
   - idiom: Inglês - Avançado (C2)
