@@ -1,3 +1,10 @@
+<style>
+    .technologies {
+        font-size: 12px;
+        color: #688293;
+    }
+</style>
+
 {% assign experience = site.data.data.experience %}
 {% if experience %}
 <section class="experiance">
@@ -12,7 +19,7 @@
             <span class="time">{{exp.time}}</span>
         </div>
         <div class="details">{{exp.details}}</div>
-        <p class="technologies">Tecnologias Usadas: {{p.technologies_used}}</p>
+        <p class="technologies">Tecnologias Usadas: {{exp.technologies_used}}</p>
     </div>
 
     {% endfor %}
