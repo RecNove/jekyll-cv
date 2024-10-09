@@ -30,16 +30,12 @@
 
   function changeLanguage() {
     const selectedLanguage = document.getElementById('language-selector').value;
-    const importFile = selectedLanguage === 'en' ? 'data-english.yml' : 'data.yml';
-    
-    fetch(importFile)
-      .then(response => response.text())
-      .then(data => {
-        console.log(data);
-      })
-      .catch(error => {
-        console.error('Error loading the language file:', error);
-      });
+    const basePath = window.location.pathname.split('/').slice(0, -1).join('/'); // Get current path
+    if (selectedLanguage === 'en') {
+      window.location.href = `${basePath}/en.html`; // Redirect to English version
+    } else {
+      window.location.href = `${basePath}/index.html`; // Redirect to Portuguese version
+    }
   }
 
 </script>
