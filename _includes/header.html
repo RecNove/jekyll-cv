@@ -16,10 +16,30 @@
       <input type="checkbox" id="switch" name="mode" class="toggle-dark"></input>
       <label for="switch"><i id="moon" data-feather="moon" fill="var(--fg-color)"></i></label>
     {%endif%}
+
+    <select id="language-selector" onchange="changeLanguage()">
+      <option value="pt" selected>Portuguese</option>
+      <option value="en">English</option>
+    </select>
   </div>
 </div>
 <script>
   function downloadPDF() {
     window.print();
   }
+
+  function changeLanguage() {
+    const selectedLanguage = document.getElementById('language-selector').value;
+    const importFile = selectedLanguage === 'en' ? 'data-english.yml' : 'data.yml';
+    
+    fetch(importFile)
+      .then(response => response.text())
+      .then(data => {
+        console.log(data);
+      })
+      .catch(error => {
+        console.error('Error loading the language file:', error);
+      });
+  }
+
 </script>
