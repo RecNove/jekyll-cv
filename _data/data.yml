@@ -11,6 +11,15 @@ contact:
   gitlab: AmorimMG
   twitter: 
 
+contact_title: Contatos
+languages_title: Idiomas
+education_title: Formação
+profile_title: Sobre Mim
+experience_title: Experiências
+technologies_title: Tecnologias Usadas
+projects_title: Projetos
+publications_title: Certificações
+
 languages:
   - idiom: Inglês - Avançado (C2)
   - idiom: Português - Nativo
@@ -33,7 +42,7 @@ education:
     university: Escola Seven7
 
 skills:
-  - category: Linguagens
+  - category: Linguagens de Programação
     skill:
       - Javascript
       - Typescript

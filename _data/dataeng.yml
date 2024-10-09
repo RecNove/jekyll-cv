@@ -11,6 +11,15 @@ contact:
   gitlab: AmorimMG
   twitter: 
 
+contact_title: Contacts
+languages_title: Languages
+education_title: Education
+profile_title: About Me
+experience_title: Experience
+technologies_title: Technologies Used
+projects_title: Projects
+publications_title: Certificates
+
 languages:
   - idiom: English - Advanced (C2)
   - idiom: Portuguese - Native
@@ -33,7 +42,7 @@ education:
     university: Seven7 School
 
 skills:
-  - category: Linguagens de Programação
+  - category: Programming Languages
     skill:
       - Javascript
       - Typescript
@@ -64,7 +73,6 @@ skills:
       - CI/CD
 
 # Content
-profile_title: About Me
 profile: |
   I am Gabriel Amorim, a 23-year-old Fullstack Developer passionate about technology and innovation. I am seeking challenges that will expand my skills in web development, both on the front-end and back-end, and allow me to contribute meaningfully to impactful projects.
   I hold a degree in Software Engineering from FIAP and have experience with JavaScript, TypeScript, React, Angular, and Vue.js. I have engaged in all aspects of development, including DevOps practices and integrating new technologies.

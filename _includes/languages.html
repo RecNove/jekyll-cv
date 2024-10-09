@@ -1,7 +1,8 @@
 {% assign languages = include.data.languages %}
+{% assign languages_title = include.data.languages_title %}
 {% if languages %}
 <section class="languages">
-    <div class="title">Idiomas</div>
+    <div class="title">{{languages_title}}</div>
     {% for lang in languages %}
     <div class="idiom">{{lang.idiom}}</div>
     {% endfor %}

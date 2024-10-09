@@ -1,7 +1,8 @@
 {% assign education = include.data.education %}
+{% assign education_title = include.data.contact_title %}
 {% if education %}
 <section class="education">
-    <div class="title">Formação</div>
+    <div class="title">{{education_title}}</div>
     {% for ed in education %}
     <div class="education-item">
         <div class="degree">{{ed.degree}}</div>

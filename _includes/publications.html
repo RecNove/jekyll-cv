@@ -1,7 +1,8 @@
 {% assign publications = include.data.publications %}
+{% assign publications_title = include.data.publications_title %}
 {% if publications %}
 <section class="publications">
-    <h2 class="title">Certificações</h2>
+    <h2 class="title">{{publications_title}}</h2>
     <div class="publication-items">
         {% for pub in publications%}
         <div class="publication-item">

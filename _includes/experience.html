@@ -6,9 +6,10 @@
 </style>
 
 {% assign experience = include.data.experience %}
+{% assign experience_title = include.data.experience_title %}
 {% if experience %}
 <section class="experiance">
-    <h2 class="title">Experiência</h2>
+    <h2 class="title">{{experience_title}}</h2>
     {% for exp in experience %}
     <div class="experience-item">
         <div class="role">
