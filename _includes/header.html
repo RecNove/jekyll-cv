@@ -1,3 +1,48 @@
+<style>
+  .download-button {
+    border: none;
+    background: none;
+  }
+
+  .button-wrap {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 10px;
+  }
+
+  #language-selector {
+    color: white;
+    background-color: var(--fg-color);
+    border: 1px solid var(--fg-color);
+    border-radius: 5px;
+    padding: 5px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+  }
+
+  #language-selector {
+    background-image: url('data:image/svg+xml;charset=US-ASCII,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><path fill="white" d="M12 6l-4 4-4-4h8z"/></svg>');
+    background-repeat: no-repeat;
+    background-position: right 0px center;
+    background-size: 15px;
+  }
+
+  #language-selector:focus {
+    outline: none;
+    box-shadow: 0 0 5px rgba(0, 98, 155, 0.5);
+  }
+
+  @media print {
+    #language-selector {
+      display: none;
+    }
+  }
+</style>
+
 <div class="header">
   <h1 class="title">{{site.data.data.name}}</h1>
   <div class="button-wrap">
