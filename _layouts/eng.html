@@ -1,14 +1,14 @@
-{% assign data = site.data.dataeng %}
+{% assign data = site.data.engdata %}
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html %}
-<body>
+<body data-content="{{ data | jsonify }}">
     {{content}}
 </body>
 {% include scripts.html %}
 </html>
 <script>
-    console.log(site);
-    console.log(site.data);
-    console.log(site.data.data);
+    // Accessing the content data from the data attribute
+    const contentData = JSON.parse(document.body.getAttribute('data-content'));
+    console.log(contentData);
 </script>
