@@ -33,7 +33,7 @@ education:
     university: Escola Seven7
 
 skills:
-  - category: Habilidades Fullstack
+  - category: Habilidades
     skill:
       - Javascript - Intermediário
       - Typescript - Intermediário
@@ -45,21 +45,20 @@ skills:
       - PHP - Básico
       - Python - Básico
       - Java, Spring - Básico
-
-  - category: Habilidades DevOps
-    skill:
       - Docker - Intermediário
       - Linux - Intermediário
       - Jenkins - Intermediário
 
   - category: Conhecimentos Extras
     skill:
-      - Pacote Office
       - UI/UX (Figma, Photoshop)
+      - Banco de Dados
       - CI/CD
+      - Cloud
       - Métodologias Scrum
       - Solid
       - MVC
+      - Pacote Office
 
 # Content
 profile: |
