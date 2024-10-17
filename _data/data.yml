@@ -76,9 +76,7 @@ skills:
 # Content
 profile_title: Sobre Mim
 profile: |
-  Sou Gabriel Amorim, um desenvolvedor Fullstack de 23 anos apaixonado por tecnologia e inovação. Estou em busca de desafios que ampliem minhas habilidades em desenvolvimento web, tanto no front-end quanto no back-end, e que me permitam contribuir de forma significativa em projetos impactantes.
-  Tenho formação em Engenharia de Software pela FIAP e experiência com JavaScript, TypeScript, React, Angular e Vue.js. Tenho atuado em todos os aspectos do desenvolvimento, incluindo práticas de DevOps e integração de novas tecnologias.
-  Além das habilidades técnicas, valorizo o design UI/UX, buscando sempre criar interfaces intuitivas e funcionais. Estou comprometido em aprender continuamente e compartilhar conhecimento, acreditando que a colaboração em equipe é essencial para o sucesso em projetos inovadores e na construção de soluções eficazes.
+  Sou Gabriel Amorim, um desenvolvedor Fullstack de 23 anos apaixonado por tecnologia e inovação. Estou em busca de desafios que ampliem minhas habilidades em desenvolvimento web, tanto no front-end, back-end e devops, e que me permitam contribuir de forma significativa em projetos impactantes.
 
 experience:
   - role: Desenvolvedor Fullstack 
