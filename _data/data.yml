@@ -83,9 +83,9 @@ experience:
     time: jul/2021 - Atual
     company: Meta3 Services & Technologies
     details: |
-      Atuação em projetos fullstack, desenvolvendo funcionalidades de Back-End, Front-End e DevOps.
+      Atuação em projetos Fullstack, desenvolvendo funcionalidades de Back-End, Front-End e DevOps.
     technologies_used: |
-      Javascript, Typescript, Angular, React, Vue, SQL Server, Docker, Jenkins, C#, Java, Spring Boot
+      Javascript, Typescript, Angular, React, Vue, SQL Server, Docker, Jenkins, C#, .Net, Java, Spring Boot
 
   - role: Desenvolvedor Web PHP
     time: mai/2019 - jul/2019
@@ -102,7 +102,7 @@ projects:
       Desenvolvimento de um sistema para leitura e análise de códigos, gerando documentação e diagramas automaticamente.
       O sistema também permite o rastreamento de métricas de qualidade e cobertura de código.
     technologies_used: |
-      Vue, Nuxt, Typescript, Jenkins, Docker, IA, Azure
+      Vue, Nuxt, Typescript, Jenkins, Docker, IA, Azure, C#, .Net
 
   - title: Conversão de Projetos em VB6
     link: #
