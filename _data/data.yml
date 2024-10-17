@@ -100,6 +100,7 @@ projects:
     link: #
     details: |
       Desenvolvimento de um sistema para leitura e análise de códigos, gerando documentação e diagramas automaticamente.
+      O sistema também permite o rastreamento de métricas de qualidade e cobertura de código.
     technologies_used: |
       Vue, Nuxt, Typescript, Jenkins, Docker, IA, Azure
 
@@ -107,26 +108,30 @@ projects:
     link: #
     details: |
       Migração de grandes projetos de VB6 para Angular e Java em um banco famoso no Brasil, centralizando pagamentos.
+      O processo envolveu a modernização de interfaces e otimização de performance dos sistemas.
     technologies_used: |
-      Angular, Typescript, Java, Sass, Jenkins
+      Angular, Typescript, Java, Sass, Jenkins, SonarQube, VB6
 
   - title: Sistema de Conversão de Código
     link: #
     details: |
       Criação de um sistema para converter documentação em CRUDs automáticos para Angular, Vue e React.
+      O sistema acelera a geração de aplicativos empresariais com base em templates personalizados.
     technologies_used: |
-      Angular, Vue, React, C#, Typescript, SQL Server
+      Angular, Vue, React, C#, .Net, Typescript, SQL Server
 
-  - title: Configuração de Servidor
+  - title: Configuração de Servidores
     link: #
     details: |
-      Implementação de CI/CD, backups automáticos e gerenciamento remoto de servidores.
+      Configurei Servidores completos do zero para cada um dos projetos da empresa implementando CI/CD com Jenkins, backups automáticos e gerenciamento remoto de servidores.
+      Foram configuradas práticas de monitoramento e alertas para otimização do tempo de resposta a incidentes.
     technologies_used: |
-      Linux, Docker, Nginx, Jenkins
+      Linux, Docker, Nginx, Jenkins, Arch, Cloudflare
 
   - title: Sistema de Gestão de Colaboradores
     link: #
     details: |
       Desenvolvimento de plataforma para gestão de colaboradores, com armazenamento de dados e gerenciamento de contracheques.
+      A solução permite a emissão automatizada de relatórios de desempenho e pagamento.
     technologies_used: |
-      Typescript, React, C#, SQL Server
+      Typescript, React, C#, .Net, SQL Server
