@@ -7,43 +7,43 @@ contact:
   email: gabriel@amorim.pro
   github: AmorimMG
   linkedin: gabrielamorim0
-  phone: +55 (31) 98987-7783
+  phone: (31) 98987-7783
   gitlab: AmorimMG
   twitter: 
 
-contact_title: Contacts
-languages_title: Languages
-education_title: Education
-profile_title: About Me
-experience_title: Experience
-technologies_title: Technologies Used
-projects_title: Projects
-publications_title: Certifications
-volunteering_title: Volunteering
+contact_title: Contatos
+languages_title: Idiomas
+education_title: Formação
+profile_title: Sobre Mim
+experience_title: Experiências
+technologies_title: Tecnologias Usadas
+projects_title: Projetos
+publications_title: Certificações
+volunteering_title: Trabalho Voluntário
 
 languages:
-  - idiom: English - Advanced (C2)
-  - idiom: Portuguese - Native
+  - idiom: Inglês - Avançado (C2)
+  - idiom: Português - Nativo
 
 education:
-  - degree: Software Engineering
+  - degree: Engenharia de Software
     time: 2023-2026
     university: FIAP
 
-  - degree: Computer Engineering
+  - degree: Engenharia da Computação
     time: 2020-2022
     university: PUC Minas
 
-  - degree: Technical High School in I.T.
+  - degree: Colégio Técnico T.I
     time: 2018-2019
     university: Colégio Cotemig
 
-  - degree: Graphic Computing
+  - degree: Computação Gráfica
     time: 2015-2017
     university: Escola Seven7
 
 skills:
-  - category: Programming Languages
+  - category: Linguagens de Programação
     skill:
       - Javascript
       - Typescript
@@ -60,7 +60,7 @@ skills:
       - Spring Boot
       - ASP.NET
 
-  - category: Tools
+  - category: Ferramentas
     skill:
       - Docker
       - Jenkins
@@ -74,64 +74,64 @@ skills:
       - CI/CD
 
 # Content
-profile_title: About Me
+profile_title: Sobre Mim
 profile: |
-  I am Gabriel Amorim, a 23-year-old Fullstack developer passionate about technology and innovation. I am looking for challenges that expand my skills in web development—both front-end, back-end, and DevOps—and that allow me to contribute significantly to impactful projects.
+  Sou Gabriel Amorim, um desenvolvedor Fullstack de 23 anos apaixonado por tecnologia e inovação. Estou em busca de desafios que ampliem minhas habilidades em desenvolvimento web, tanto no front-end, back-end e devops, e que me permitam contribuir de forma significativa em projetos impactantes.
 
 experience:
-  - role: Fullstack Developer 
-    time: Jul/2021 - Present
+  - role: Desenvolvedor Fullstack 
+    time: jul/2021 - Atual
     company: Meta3 Services & Technologies
     details: |
-      Working on Fullstack projects, developing Back-End, Front-End, and DevOps functionalities.
+      Atuação em projetos Fullstack, desenvolvendo funcionalidades de Back-End, Front-End e DevOps.
     technologies_used: |
       Javascript, Typescript, Angular, React, Vue, SQL Server, Docker, Jenkins, C#, .Net, Java, Spring Boot
 
-  - role: PHP Web Developer
-    time: May/2019 - Jul/2019
+  - role: Desenvolvedor Web PHP
+    time: mai/2019 - jul/2019
     company: Contabilidade Amorim
     details: |
-      Developed the company's website, using PHP for the Back-End and HTML/CSS for the Front-End.
+      Desenvolvimento do site da empresa, utilizando PHP para o Back-End e HTML/CSS para o Front-End.
     technologies_used: |
       PHP, HTML, CSS, Javascript
 
 projects:
-  - title: Code Analysis System
+  - title: Sistema de Análise de Código
     link: #
     details: |
-      Development of a system for reading and analyzing code, generating documentation and diagrams automatically.
-      The system also allows tracking code quality metrics and coverage.
+      Desenvolvimento de um sistema para leitura e análise de códigos, gerando documentação e diagramas automaticamente.
+      O sistema também permite o rastreamento de métricas de qualidade e cobertura de código.
     technologies_used: |
-      Vue, Nuxt, Typescript, Jenkins, Docker, AI, Azure, C#, .Net
+      Vue, Nuxt, Typescript, Jenkins, Docker, IA, Azure, C#, .Net
 
-  - title: VB6 Projects Conversion
+  - title: Conversão de Projetos em VB6
     link: #
     details: |
-      Migration of large VB6 projects to Angular and Java at a famous bank in Brazil, centralizing payments.
-      The process involved modernizing interfaces and optimizing system performance.
+      Migração de grandes projetos de VB6 para Angular e Java em um banco famoso no Brasil, centralizando pagamentos.
+      O processo envolveu a modernização de interfaces e otimização de performance dos sistemas.
     technologies_used: |
       Angular, Typescript, Java, Sass, Jenkins, SonarQube, VB6
 
-  - title: Code Conversion System
+  - title: Sistema de Conversão de Código
     link: #
     details: |
-      Creation of a system to convert documentation into automatic CRUDs for Angular, Vue, and React.
-      The system accelerates the generation of business applications based on customized templates.
+      Criação de um sistema para converter documentação em CRUDs automáticos para Angular, Vue e React.
+      O sistema acelera a geração de aplicativos empresariais com base em templates personalizados.
     technologies_used: |
       Angular, Vue, React, C#, .Net, Typescript, SQL Server
 
-  - title: Server Configuration
+  - title: Configuração de Servidores
     link: #
     details: |
-      Set up complete servers from scratch for each of the company's projects, implementing CI/CD with Jenkins, automatic backups, and remote server management.
-      Monitoring and alert practices were configured to optimize incident response time.
+      Configurei Servidores completos do zero para cada um dos projetos da empresa implementando CI/CD com Jenkins, backups automáticos e gerenciamento remoto de servidores.
+      Foram configuradas práticas de monitoramento e alertas para otimização do tempo de resposta a incidentes.
     technologies_used: |
       Linux, Docker, Nginx, Jenkins, Arch, Cloudflare
 
-  - title: Employee Management System
+  - title: Sistema de Gestão de Colaboradores
     link: #
     details: |
-      Development of a platform for managing employees, including data storage and payslip management.
-      The solution allows the automated issuance of performance and payment reports.
+      Desenvolvimento de plataforma para gestão de colaboradores, com armazenamento de dados e gerenciamento de contracheques.
+      A solução permite a emissão automatizada de relatórios de desempenho e pagamento.
     technologies_used: |
       Typescript, React, C#, .Net, SQL Server

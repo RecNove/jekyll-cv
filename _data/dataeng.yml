@@ -7,7 +7,7 @@ contact:
   email: gabriel@amorim.pro
   github: AmorimMG
   linkedin: gabrielamorim0
-  phone: (31) 98987-7783
+  phone: +55 (31) 98987-7783
   gitlab: AmorimMG
   twitter: 
 
@@ -18,7 +18,7 @@ profile_title: About Me
 experience_title: Experience
 technologies_title: Technologies Used
 projects_title: Projects
-publications_title: Certificates
+publications_title: Certifications
 volunteering_title: Volunteering
 
 languages:
@@ -34,13 +34,13 @@ education:
     time: 2020-2022
     university: PUC Minas
 
-  - degree: Technical School in I.T.
+  - degree: Technical High School in I.T.
     time: 2018-2019
-    university: Cotemig School 
+    university: Colégio Cotemig
 
   - degree: Graphic Computing
     time: 2015-2017
-    university: Seven7 School
+    university: Escola Seven7
 
 skills:
   - category: Programming Languages
@@ -50,7 +50,6 @@ skills:
       - C#
       - Java
       - Python
-      - PHP
       - SQL
 
   - category: Frameworks
@@ -67,6 +66,7 @@ skills:
       - Jenkins
       - Figma
       - Photoshop
+      - Cypress
 
   - category: DevOps
     skill:
@@ -74,25 +74,24 @@ skills:
       - CI/CD
 
 # Content
+profile_title: About Me
 profile: |
-  I am Gabriel Amorim, a 23-year-old Fullstack Developer passionate about technology and innovation. I am seeking challenges that will expand my skills in web development, both on the front-end and back-end, and allow me to contribute meaningfully to impactful projects.
-  I hold a degree in Software Engineering from FIAP and have experience with JavaScript, TypeScript, React, Angular, and Vue.js. I have engaged in all aspects of development, including DevOps practices and integrating new technologies.
-  In addition to my technical skills, I value UI/UX design and always strive to create intuitive and functional interfaces. I am committed to continuous learning and knowledge sharing, believing that teamwork and collaboration are essential for success in innovative projects and in building effective solutions.
+  I am Gabriel Amorim, a 23-year-old Fullstack developer passionate about technology and innovation. I am looking for challenges that expand my skills in web development—both front-end, back-end, and DevOps—and that allow me to contribute significantly to impactful projects.
 
 experience:
-  - role: Fullstack Developer
+  - role: Fullstack Developer 
     time: Jul/2021 - Present
     company: Meta3 Services & Technologies
     details: |
-      Working on fullstack projects, developing Back-End, Front-End, and DevOps features as needed.
+      Working on Fullstack projects, developing Back-End, Front-End, and DevOps functionalities.
     technologies_used: |
-      Javascript, Typescript, Angular, React, Vue, SQL Server, Docker, Jenkins, C#, Java, Spring Boot
+      Javascript, Typescript, Angular, React, Vue, SQL Server, Docker, Jenkins, C#, .Net, Java, Spring Boot
 
   - role: PHP Web Developer
     time: May/2019 - Jul/2019
     company: Contabilidade Amorim
     details: |
-      Developed the company's website, using PHP for Back-End and HTML/CSS for Front-End.
+      Developed the company's website, using PHP for the Back-End and HTML/CSS for the Front-End.
     technologies_used: |
       PHP, HTML, CSS, Javascript
 
@@ -100,34 +99,39 @@ projects:
   - title: Code Analysis System
     link: #
     details: |
-      Developed a system for reading and analyzing code, generating documentation and diagrams automatically.
+      Development of a system for reading and analyzing code, generating documentation and diagrams automatically.
+      The system also allows tracking code quality metrics and coverage.
     technologies_used: |
-      Vue, Nuxt, Typescript, Jenkins, Docker, AI, Azure
+      Vue, Nuxt, Typescript, Jenkins, Docker, AI, Azure, C#, .Net
 
-  - title: VB6 Project Conversion
+  - title: VB6 Projects Conversion
     link: #
     details: |
-      Worked on migrating large VB6 projects to Angular and Java for a well-known bank in Brazil, focusing on payment centralization.
+      Migration of large VB6 projects to Angular and Java at a famous bank in Brazil, centralizing payments.
+      The process involved modernizing interfaces and optimizing system performance.
     technologies_used: |
-      Angular, Typescript, Java, Sass, Jenkins
+      Angular, Typescript, Java, Sass, Jenkins, SonarQube, VB6
 
   - title: Code Conversion System
     link: #
     details: |
-      Developed a system that converts documentation into automatic CRUD code for Angular, Vue, and React.
+      Creation of a system to convert documentation into automatic CRUDs for Angular, Vue, and React.
+      The system accelerates the generation of business applications based on customized templates.
     technologies_used: |
-      Angular, Vue, React, C#, Typescript, SQL Server
+      Angular, Vue, React, C#, .Net, Typescript, SQL Server
 
   - title: Server Configuration
     link: #
     details: |
-      Set up CI/CD environment, daily backups, and remote server management.
+      Set up complete servers from scratch for each of the company's projects, implementing CI/CD with Jenkins, automatic backups, and remote server management.
+      Monitoring and alert practices were configured to optimize incident response time.
     technologies_used: |
-      Linux, Docker, Nginx, Jenkins
+      Linux, Docker, Nginx, Jenkins, Arch, Cloudflare
 
   - title: Employee Management System
     link: #
     details: |
-      Developed a system for employee management, including data storage and payroll management.
+      Development of a platform for managing employees, including data storage and payslip management.
+      The solution allows the automated issuance of performance and payment reports.
     technologies_used: |
-      Typescript, React, C#, SQL Server
+      Typescript, React, C#, .Net, SQL Server
