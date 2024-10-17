@@ -50,7 +50,6 @@ skills:
       - C#
       - Java
       - Python
-      - PHP
       - SQL
 
   - category: Frameworks
@@ -67,6 +66,7 @@ skills:
       - Jenkins
       - Figma
       - Photoshop
+      - Cypress
 
   - category: DevOps
     skill:
